@@ -178,8 +178,8 @@
  },
  "menus": {
   "k": "5 · Menü-Baukasten & Allergene",
-  "h": "Kunden stellen ihr Menü selbst zusammen, <em>mit allen Allergenen</em>",
-  "p": "Die Funktion, die den meisten Catering-Websites fehlt. Besucher wählen Gerichte, sehen den Preis pro Gast und senden Ihnen das Menü. Jedes Gericht zeigt Ernährungsformen und die 14 Hauptallergene.",
+  "h": "Kunden stellen ihr Menü zusammen, <em>mit allen Allergenen</em>",
+  "p": "Was den meisten Catering-Websites fehlt: Besucher wählen Gerichte, sehen den Preis pro Gast und senden Ihnen das Menü, mit Ernährungsformen und den 14 Allergenen.",
   "a": [
    [
     "Filter",
@@ -187,7 +187,7 @@
    ],
    [
     "Ihr Menü-Tablett",
-    "Gerichte nach Gang, Gäste und Servierart, Preis pro Gast und Summe, alles im Browser gespeichert."
+    "Gerichte nach Gang, Gäste, Servierart, Preis pro Gast und Summe, im Browser gespeichert."
    ]
   ],
   "b": [
@@ -200,7 +200,7 @@
     "36 Gerichte mal 14 Allergene in einer Tabelle. Allergene ausblenden oder nur vegane bzw. Halal-Gerichte zeigen."
    ]
   ],
-  "capA": "Menü-Baukasten mit Halal-Filter und 7 gewählten Gerichten",
+  "capA": "Menü-Baukasten mit Halal-Filter, 7 Gerichte gewählt",
   "capB": "Ihr Menü: Preis und Allergene",
   "capC": "Allergenmatrix, Nüsse und Gluten ausgeblendet"
  },

@@ -122,20 +122,20 @@
   "p": "Le mariage est la plus grosse réservation d'un traiteur. Cette page parle aux couples et aux familles : idéale pour la publicité, les salons du mariage, Instagram et les lieux partenaires.",
   "s": [
    [
-    "Ouverture mariage et prix",
+    "Ouverture et prix",
     "Un titre mariage, l'estimation réglée sur « mariage » et les chiffres clés."
    ],
    [
     "Votre date est-elle libre ?",
-    "Les couples choisissent une date, voient combien d'équipes sont libres et peuvent la bloquer."
+    "Les couples choisissent une date, voient les équipes libres et la bloquent."
    ],
    [
     "Formules et déroulé du jour J",
-    "Trois menus de mariage avec le total pour vos invités, et l'heure de chaque service."
+    "Trois menus avec le total pour vos invités et l'heure de chaque service."
    ],
    [
     "Mehndi, nikah et walima",
-    "Un menu pour chaque cérémonie d'un mariage sud-asiatique, avec avis de couples et FAQ."
+    "Un menu par cérémonie d'un mariage sud-asiatique, avec avis et FAQ."
    ]
   ],
   "cap": "Vérification de date de mariage",
@@ -193,11 +193,11 @@
   "b": [
    [
     "Récapitulatif des allergènes",
-    "Le menu liste tous les allergènes des plats choisis. Téléchargez-le ou envoyez-le directement dans un devis."
+    "Tous les allergènes du menu choisi, à télécharger ou à envoyer dans un devis."
    ],
    [
     "Tableau des allergènes",
-    "36 plats × 14 allergènes dans un seul tableau. Masquez un allergène ou affichez seulement les plats vegan ou halal."
+    "36 plats × 14 allergènes, avec filtres vegan, halal et sans allergène."
    ]
   ],
   "capA": "Composeur de menu, filtre halal et 7 plats choisis",
@@ -255,7 +255,7 @@
    ],
    [
     "Référence de commande",
-    "Une confirmation avec référence et un bouton « recommander ma dernière commande »."
+    "Une confirmation avec référence et un bouton « recommander »."
    ]
   ],
   "capA": "Carte des plateaux-repas",

@@ -20,7 +20,7 @@ const DIET = Object.fromEntries(DIETS);
 const AL = Object.fromEntries(ALLERGENS);
 const dietTag = (d) => `<span class="mt-diet d-${d}" title="${DIET[d]}">${d.toUpperCase()}</span>`;
 const SAMPLE = "Sample content for this demo website: the business, names, prices and reviews are fictional.";
-const stars = (n = 5) => `<span class="mt-stars" aria-label="${n} out of 5 stars">${ico("star").repeat(n)}</span>`;
+const stars = (n = 5) => `<span class="mt-stars" role="img" aria-label="${n} out of 5 stars">${ico("star").repeat(n)}</span>`;
 
 const NAV = [
   ["Services", "services.html", [["All catering services", "services.html"], ...SERVICES.map((s) => [s.title, svcHref(s)])]],
@@ -46,7 +46,7 @@ const orgLd = {
 };
 const siteLd = { "@context": "https://schema.org", "@type": "WebSite", name: B.name, url: BASE, inLanguage: "en-GB", publisher: { "@id": BASE + "#org" }, creator: { "@type": "Organization", name: "Penta Services", url: "https://pentaservices.co.uk" } };
 
-const brandLink = `<a class="mt-logo" href="index.html" aria-label="${B.name}, home">${LOGO}<span><b>Marigold <i>&amp;</i> Thyme</b><small>${B.tagline}</small></span></a>`;
+const brandLink = `<a class="mt-logo" href="index.html">${LOGO}<span><b>Marigold <i>&amp;</i> Thyme</b><small>${B.tagline}</small></span></a>`;
 
 function layout({ file, title, desc, body, ld = [], active, ogImg = "hero-1", crumbs, dark = false }) {
   const url = BASE + (file === "index.html" ? "" : file);
@@ -72,7 +72,8 @@ function layout({ file, title, desc, body, ld = [], active, ogImg = "hero-1", cr
 <meta name="theme-color" content="#16241c">
 <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+${file === "index.html" ? '<link rel="preload" as="image" href="assets/img/hero-1-s.webp" imagesrcset="assets/img/hero-1-s.webp 760w, assets/img/hero-1.webp 1800w" imagesizes="(max-width: 960px) 90vw, 45vw" fetchpriority="high">' : ""}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap"></noscript>
 <link rel="stylesheet" href="assets/css/style.css">
 ${lds}
 </head>
@@ -129,7 +130,7 @@ const reviewCarousel = () => `<div class="mt-carousel" data-carousel><div class=
 const faqList = (items) => `<div class="mt-faq" id="faqList">${items.map(([c, q, a]) => `<details data-cat="${c}"><summary><span class="qt">${q}</span>${ico("plus")}</summary><p>${a}</p></details>`).join("")}</div>`;
 const faqLd = (items) => ({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: items.map(([, q, a]) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } })) });
 
-const svcCard = (s) => `<a class="mt-svc mt-reveal" href="${svcHref(s)}"><div class="ph">${img(s.img, s.title)}<span class="from">from <b>${gbp(s.from)}</b> pp</span></div><div class="bd"><span class="ic">${ico(s.icon)}</span><h3>${s.title}</h3><p>${s.short}</p><span class="more">Menus & prices ${ico("arrow")}</span></div></a>`;
+const svcCard = (s) => `<a class="mt-svc mt-reveal" href="${svcHref(s)}"><div class="ph">${img(s.img, "")}<span class="from">from <b>${gbp(s.from)}</b> pp</span></div><div class="bd"><span class="ic">${ico(s.icon)}</span><h3>${s.title}</h3><p>${s.short}</p><span class="more">Menus & prices ${ico("arrow")}</span></div></a>`;
 
 const dishCard = (d, add = true) => `<article class="mt-dish" data-dish="${d.id}" data-course="${d.c}" data-diet="${d.diet.join(" ")}" data-al="${d.al.join(" ")}">
 <div class="ph">${d.img ? img(d.img, d.n) : `<div class="dplate p-${d.c}" aria-hidden="true">${ico(d.c === "drink" ? "glass" : d.c === "dessert" ? "cake" : "spoon")}</div>`}</div>
@@ -170,7 +171,7 @@ add("index.html", {
 <div class="mt-cta-row"><a class="mt-btn" href="quote.html">Get an instant quote</a><a class="mt-btn ghost light" href="menus.html">${ico("spoon")} Build your menu</a></div>
 <div class="proof"><span>${stars()} <b>4.9</b> from 312 reviews</span><span>${ico("shield")} Hygiene rating 5</span><span>${ico("leaf")} Halal & vegan kitchens</span></div>
 </div>
-<div class="art"><div class="arch" data-slides>${["hero-1", "hero-2", "hero-3"].map((h, i) => `<img class="s${i ? "" : " on"}" src="assets/img/${h}.webp" alt="${["Long dining table dressed for a wedding", "Buffet of salads and hot dishes", "Chef finishing plates"][i]}" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">`).join("")}</div>
+<div class="art"><div class="arch" data-slides>${["hero-1", "hero-2", "hero-3"].map((h, i) => `<img class="s${i ? "" : " on"}" src="assets/img/${h}-s.webp" srcset="assets/img/${h}-s.webp 760w, assets/img/${h}.webp 1800w" sizes="(max-width: 960px) 90vw, 45vw" alt="${["Long dining table dressed for a wedding", "Buffet of salads and hot dishes", "Chef finishing plates"][i]}" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">`).join("")}</div>
 <div class="plate p1">${img("biryani-2", "Lamb biryani")}</div><div class="plate p2">${img("desserts", "Panna cotta")}</div>
 <div class="badge"><b>Tasting</b><span>included for weddings from 80 guests</span></div>
 <div class="dots" data-slidedots>${[0, 1, 2].map((i) => `<button aria-label="Photo ${i + 1}"${i ? "" : ' class="on"'}></button>`).join("")}</div></div>
@@ -335,9 +336,9 @@ add("menus.html", {
 <section class="mt-sec tight"><div class="mt-wrap mt-builder">
 <aside class="mt-filters" aria-label="Filter dishes">
 <div class="fsearch">${ico("search")}<input id="m-q" type="search" placeholder="Search dishes" aria-label="Search dishes"></div>
-<h3>Course</h3><div class="mt-chips col" id="m-course">${[["all", "All courses"], ...COURSES].map(([c, n], i) => `<button type="button" data-c="${c}" class="${i ? "" : "on"}">${n}<span>${c === "all" ? DISHES.length : DISHES.filter((d) => d.c === c).length}</span></button>`).join("")}</div>
-<h3>Diet</h3><div class="mt-chips" id="m-diet">${DIETS.map(([d, n]) => `<button type="button" data-d="${d}" aria-pressed="false">${n}</button>`).join("")}</div>
-<h3>Free from</h3><div class="mt-chips small" id="m-free">${ALLERGENS.map(([a, n]) => `<button type="button" data-a="${a}" aria-pressed="false">${n}</button>`).join("")}</div>
+<h2 class="fh">Course</h2><div class="mt-chips col" id="m-course">${[["all", "All courses"], ...COURSES].map(([c, n], i) => `<button type="button" data-c="${c}" class="${i ? "" : "on"}">${n}<span>${c === "all" ? DISHES.length : DISHES.filter((d) => d.c === c).length}</span></button>`).join("")}</div>
+<h2 class="fh">Diet</h2><div class="mt-chips" id="m-diet">${DIETS.map(([d, n]) => `<button type="button" data-d="${d}" aria-pressed="false">${n}</button>`).join("")}</div>
+<h2 class="fh">Free from</h2><div class="mt-chips small" id="m-free">${ALLERGENS.map(([a, n]) => `<button type="button" data-a="${a}" aria-pressed="false">${n}</button>`).join("")}</div>
 <button class="mt-link" id="m-reset" type="button">Reset filters</button>
 </aside>
 <div><div class="mt-mhead"><p id="m-count" aria-live="polite">${DISHES.length} dishes</p><div class="legend">${DIETS.map(([d, n]) => `${dietTag(d)} ${n}`).join(" ")}</div></div>
