@@ -1,0 +1,515 @@
+{
+ "lang": "en",
+ "dir": "ltr",
+ "foot": "Catering website · Feature guide",
+ "date": "November 2026",
+ "cover": {
+  "kick": "Website guide for caterers and catering companies",
+  "h1": "A catering website that <em>turns hungry browsers into booked tastings</em>",
+  "p": "Ready-made, fast and built to be found on Google and AI assistants. Menu builder with allergens, instant quotes, office lunch ordering and planning tools included. We adapt it to your business, host it and keep it updated.",
+  "left": "Ready Site · Corporate Website package",
+  "demo": "Live preview"
+ },
+ "toc": {
+  "k": "Contents",
+  "h": "What's <em>in this guide</em>",
+  "items": [
+   "At a glance",
+   "The homepage, section by section",
+   "Homepage for weddings",
+   "Services and service pages",
+   "Menu builder and allergen guide",
+   "Instant quote and consultation booking",
+   "Office lunch ordering",
+   "Packages and planning tools",
+   "Quote tracker, team and gallery",
+   "FAQ, journal and contact",
+   "Interactive features",
+   "Designed for the phone",
+   "Your brand, Google and AI search",
+   "All included and price",
+   "How we start and next steps"
+  ],
+  "demoT": "Try the live demo",
+  "demoP": "Marigold & Thyme is a fictional catering company. Every name, dish, price, figure and review in the demo is a sample that we replace with your own."
+ },
+ "glance": {
+  "k": "1 · At a glance",
+  "h": "People booking a caterer <em>want a menu and a price, fast</em>",
+  "p": "A couple planning a wedding, an office manager ordering lunch or a family planning an Eid party all search Google, ask ChatGPT and compare caterers. They want to see the food, know what it costs per guest, and be sure you can handle their diets and allergies.",
+  "checkT": "What visitors check",
+  "check": [
+   "Does the food look good, and do you cook my kind of menu?",
+   "Roughly what will it cost per guest, with staff and VAT?",
+   "Can you handle halal, vegan and allergies safely?",
+   "Are you free on my date, and how easy is it to book?"
+  ],
+  "giveT": "What this website gives them",
+  "give": [
+   "A menu builder with 36 dishes, diets, allergens and a live price",
+   "An instant quote with staff, extras and VAT, line by line",
+   "A full allergen matrix and clear packages per guest",
+   "Online ordering for office lunches, with delivery slots"
+  ],
+  "stats": [
+   [
+    "26",
+    "Ready pages, including 6 service pages and 3 guides"
+   ],
+   [
+    "2",
+    "Homepage styles: all events and weddings"
+   ],
+   [
+    "6",
+    "Tools: menu builder, allergens, quote, tracker, food and staff calculators"
+   ],
+   [
+    "5",
+    "Steps in the quote, from event type to booked consultation"
+   ]
+  ],
+  "who": "Made for",
+  "for": [
+   "Event and wedding caterers",
+   "Corporate and office caterers",
+   "Asian and halal wedding caterers",
+   "Private chefs",
+   "BBQ, street-food and mobile caterers",
+   "Buffet, grazing table and platter businesses"
+  ]
+ },
+ "home": {
+  "k": "2 · The homepage",
+  "h": "The homepage, <em>section by section</em>",
+  "p": "One page that answers the three big questions: does the food look good, what will it cost, and how do I book.",
+  "s": [
+   [
+    "Photo hero with instant price",
+    "A rotating arch photo, two buttons, rating and hygiene badges, and a live price check by event, guests and service style."
+   ],
+   [
+    "Six services",
+    "Photo cards for weddings, corporate, private chef, celebrations, BBQ and buffets, each with a price per guest."
+   ],
+   [
+    "One kitchen, three traditions",
+    "A printed-menu card that switches between British, South Asian and Mediterranean dishes, with diet badges."
+   ],
+   [
+    "Figures and process",
+    "Animated counters and four clear steps from first message to the last plate cleared."
+   ],
+   [
+    "Menu builder preview",
+    "A taste of the menu builder: dishes, price per guest and allergens."
+   ],
+   [
+    "Packages with a guest slider",
+    "Wedding, corporate and party packages; the slider shows the total for your guest numbers."
+   ],
+   [
+    "Gallery, reviews, office lunches, trust and FAQ",
+    "Recent events, a review carousel, an office-lunch promotion, hygiene and halal badges, answers and articles."
+   ]
+  ],
+  "why": "Why it matters",
+  "whyP": "People choose a caterer with their eyes and their wallet. Big food photos build appetite, and a price in the first screen turns curiosity into an enquiry instead of a phone call to ask 'how much?'."
+ },
+ "home2": {
+  "k": "3 · Weddings",
+  "h": "A second homepage <em>for weddings</em>",
+  "p": "Weddings are the biggest booking for caterers. This page speaks to couples and families directly, and is ideal for advertising, wedding fairs, Instagram and venue partnerships.",
+  "s": [
+   [
+    "Wedding hero and price",
+    "A wedding headline, the instant price set to weddings and key figures."
+   ],
+   [
+    "Is your date free?",
+    "Couples pick a date and see how many catering teams are still free, with a button to hold it."
+   ],
+   [
+    "Packages and the day's timeline",
+    "Three wedding menus with totals for your guest numbers, and when each course goes out on the day."
+   ],
+   [
+    "Mehndi, nikah and walima",
+    "Separate menus for each event of an Asian wedding, plus couples' reviews and wedding FAQs."
+   ]
+  ],
+  "cap": "Wedding date checker",
+  "capB": "Menus for Asian weddings"
+ },
+ "services": {
+  "k": "4 · Services",
+  "h": "Services and <em>service pages</em>",
+  "p": "An overview of everything you cater, plus a separate page for each service, written to answer the questions people search for.",
+  "a": [
+   [
+    "Service cards",
+    "Photo, icon, price per guest and a short description."
+   ],
+   [
+    "Which service style?",
+    "A table comparing canapés, buffet, sharing and plated service: best for, price and staff needed."
+   ]
+  ],
+  "b": [
+   [
+    "Answer-first introduction",
+    "What the service is, who it is for, the starting price and when to book."
+   ],
+   [
+    "Sample menu",
+    "Six dishes in a printed-menu style, with diet badges and a link to the allergens."
+   ],
+   [
+    "Instant price and questions",
+    "The price check set to that event type, plus FAQs with structured data."
+   ],
+   [
+    "Related services",
+    "Three other services, so visitors keep exploring."
+   ]
+  ],
+  "capA": "Services overview",
+  "capB": "Service page: wedding catering"
+ },
+ "menus": {
+  "k": "5 · Menu builder & allergens",
+  "h": "Clients build their own menu, <em>with every allergen shown</em>",
+  "p": "The feature most catering websites don't have. Visitors choose dishes, see the price per guest change, and send the menu to you. Every dish shows its diets and the 14 UK allergens.",
+  "a": [
+   [
+    "Filters",
+    "Course, diet (vegetarian, vegan, halal, gluten-free, dairy-free), free-from any of the 14 allergens, and a search."
+   ],
+   [
+    "Your menu tray",
+    "Dishes grouped by course, guests and service style, price per guest and total, all saved in the browser."
+   ]
+  ],
+  "b": [
+   [
+    "Allergen summary",
+    "The tray lists every allergen in the chosen menu. Download it or send it straight into a quote."
+   ],
+   [
+    "Allergen matrix",
+    "36 dishes by 14 allergens in one table. Hide any allergen or show only vegan or halal dishes."
+   ]
+  ],
+  "capA": "Menu builder with halal filter and 7 dishes chosen",
+  "capB": "Your menu: price and allergens",
+  "capC": "Allergen matrix, nuts and gluten hidden"
+ },
+ "quote": {
+  "k": "6 · Instant quote",
+  "h": "A quote that <em>ends in a booked consultation</em>",
+  "p": "Instead of a contact form, visitors answer five short steps. They see a line-by-line estimate before sending anything, and you get a qualified enquiry with every detail.",
+  "a": [
+   [
+    "Event, date and guests",
+    "Five event types, date, guest slider, venue postcode and whether the venue has a kitchen. Pre-filled from service pages, packages and the menu builder."
+   ],
+   [
+    "Food and diets",
+    "Service style, the menu from the builder, vegetarian numbers, halal and allergies."
+   ]
+  ],
+  "b": [
+   [
+    "Live estimate",
+    "Food, menu supplements, staff (servers and chefs worked out from guests), extras, delivery and VAT."
+   ],
+   [
+    "Book the consultation",
+    "Phone, video or a tasting at your kitchen, with a date and time slot."
+   ]
+  ],
+  "capA": "Step 3: service style and menu",
+  "capB": "Step 4: extras and the estimate",
+  "capC": "Request sent, with a reference",
+  "why": "Why it matters",
+  "whyP": "Each step asks one easy question, so far more visitors finish than with one long form. Your team starts the call already knowing the date, guests, menu, diets and budget."
+ },
+ "office": {
+  "k": "7 · Office lunches",
+  "h": "Office lunches, <em>ordered online</em>",
+  "p": "Regular corporate lunch orders are the steady income of a catering business. Office managers order platters, bowls and hot lunches in two minutes, without a phone call.",
+  "a": [
+   [
+    "Menu with quantities",
+    "Each item shows how many it serves, its diets and the price, with + and − buttons."
+   ],
+   [
+    "Order rules built in",
+    "Minimum order, free delivery over a set amount, weekday delivery from tomorrow and time slots."
+   ]
+  ],
+  "b": [
+   [
+    "Postcode check",
+    "Only your delivery areas are accepted, with a clear message for others."
+   ],
+   [
+    "Order reference",
+    "A confirmation with a reference, and a 'repeat my last order' button for next time."
+   ]
+  ],
+  "capA": "Office lunch menu",
+  "capB": "Basket with delivery date, time and postcode",
+  "capC": "Order placed"
+ },
+ "plan": {
+  "k": "8 · Packages & planning tools",
+  "h": "Clear packages <em>and the tools to plan with</em>",
+  "p": "Clients want to know what they get for the money, and how much food and how many staff they need.",
+  "a": [
+   [
+    "Package tabs and guest slider",
+    "Weddings, corporate and parties, three packages each, with the total for the visitor's guest numbers."
+   ],
+   [
+    "Food quantity calculator",
+    "Guests, hours, style and appetite give canapés, kilos of food, rice, naan, desserts, drinks and ice."
+   ]
+  ],
+  "b": [
+   [
+    "Staff calculator",
+    "Servers, chefs, bar staff and a manager for the guests and service style, with the staff cost."
+   ],
+   [
+    "Food timeline",
+    "When each course should go out, from the time guests arrive."
+   ]
+  ],
+  "capA": "Packages with totals for 150 guests",
+  "capB": "Food quantity calculator",
+  "capC": "Staff calculator"
+ },
+ "track": {
+  "k": "9 · Tracker, team & gallery",
+  "h": "Clients follow their booking, <em>and meet your team</em>",
+  "p": "After the quote, clients want to know what happens next. The tracker shows them, and the team and gallery pages show who will cook and serve.",
+  "a": [
+   [
+    "Quote tracker",
+    "Enter the reference to see the proposal, tasting, deposits, final numbers and event day, with a calendar file."
+   ],
+   [
+    "Fewer 'just checking' calls",
+    "Clients see every date and amount without phoning."
+   ]
+  ],
+  "b": [
+   [
+    "Team profiles",
+    "Photo, role and story in a pop-up for each chef and manager."
+   ],
+   [
+    "Gallery",
+    "Filters by weddings, corporate, parties, outdoor and food, with a full-screen lightbox."
+   ]
+  ],
+  "capA": "Quote tracker",
+  "capB": "Chef profile",
+  "capC": "Gallery with filters and a lightbox"
+ },
+ "more": {
+  "k": "10 · FAQ, journal, contact",
+  "h": "Answers, articles <em>and every way to reach you</em>",
+  "faq": [
+   "Searchable FAQ",
+   "Visitors type a word and matching questions open with highlights. Topic filters and FAQ structured data."
+  ],
+  "blog": [
+   "Journal",
+   "Guides on food per guest, wedding catering costs and allergens, written to be quoted by Google and AI assistants."
+  ],
+  "contact": [
+   "Contact",
+   "Kitchen address, a map, hours, WhatsApp, phone and a short contact form with spam protection."
+  ],
+  "capFaq": "FAQ live search",
+  "capBlog": "Article: how much food per guest",
+  "capContact": "Contact page"
+ },
+ "feats": {
+  "k": "11 · Interactive features",
+  "h": "Features that <em>keep visitors engaged</em>",
+  "items": [
+   [
+    "Instant price in the hero",
+    "A price range by event type, guests and style, before the visitor scrolls."
+   ],
+   [
+    "Site search",
+    "Searches dishes, services, office lunches, team, questions and articles (also Ctrl/Cmd + K)."
+   ],
+   [
+    "Wedding date checker",
+    "Shows how many teams are free on the couple's date."
+   ],
+   [
+    "WhatsApp, call and mobile action bar",
+    "A WhatsApp button, tap-to-call and a Call / WhatsApp / Instant quote bar on phones."
+   ],
+   [
+    "Fast and light",
+    "Plain code, compressed images and quick loading on phones."
+   ],
+   [
+    "Easy to update",
+    "All content in one place: change a dish, an allergen or a package price once and every page updates."
+   ]
+  ],
+  "capCalc": "Menu builder preview on the homepage",
+  "capSearch": "Site search"
+ },
+ "mobile": {
+  "k": "12 · Mobile",
+  "h": "Designed <em>for the phone</em>",
+  "p": "Most clients plan on their phone, often in the evening. The menu folds into a side drawer, the menu tray slides up from the bottom, and a bar keeps Call, WhatsApp and Instant quote one tap away.",
+  "caps": [
+   "Homepage",
+   "Menu",
+   "Menu builder",
+   "Instant quote"
+  ]
+ },
+ "search": {
+  "k": "13 · Brand and search",
+  "h": "Your brand, <em>Google and AI search</em>",
+  "p": "The demo uses deep thyme green with marigold, Fraunces for headings and DM Sans for text: warm, appetising and trustworthy. We replace them with your logo, colours and food photos.",
+  "seoT": "Google (SEO)",
+  "seo": [
+   "A unique title and description on every page",
+   "FoodEstablishment, Service with price per guest, Menu with diets, FAQPage, Article and Breadcrumb structured data",
+   "A separate page for each service, plus menu, allergen and package pages",
+   "Sitemap, clean addresses and fast loading"
+  ],
+  "geoT": "AI assistants (GEO)",
+  "geo": [
+   "Answer-first service pages and FAQs",
+   "Guides with real quantities and prices that AI tools can quote",
+   "Consistent name, address and phone everywhere",
+   "An llms.txt summary of your services, menu and tools"
+  ],
+  "qT": "Searches the website is built around",
+  "q": [
+   "caterers in [city]",
+   "wedding caterers [region]",
+   "Asian wedding caterers",
+   "halal catering [city]",
+   "corporate catering [city]",
+   "office lunch delivery",
+   "catering cost per person",
+   "how much food per guest"
+  ],
+  "why": "Why it matters",
+  "whyP": "More and more people ask ChatGPT, Gemini or Google AI which caterer to use and what catering costs. AI assistants quote sites with clear answers and consistent facts. We don't guarantee rankings or citations, but we report progress every month."
+ },
+ "inc": {
+  "k": "14 · All included",
+  "h": "Domain, hosting and email: <em>we take care of it all</em>",
+  "p": "The website arrives complete and ready to use. You never have to deal with anything technical.",
+  "items": [
+   [
+    "Domain",
+    "A free .com, .net or .org domain with yearly billing, or we connect yours.",
+    true
+   ],
+   [
+    "Fast, secure hosting",
+    "Reliable servers, SSL certificate (https) and regular backups.",
+    true
+   ],
+   [
+    "Business email",
+    "Mailboxes on your own domain (e.g. hello@yourfirm.co.uk).",
+    true
+   ],
+   [
+    "Updates and support",
+    "We keep the site updated and secure and make your changes.",
+    false
+   ],
+   [
+    "Google Business Profile",
+    "Your Google Maps listing set up and linked to the website.",
+    false
+   ],
+   [
+    "Privacy and cookies",
+    "Privacy notice and cookie consent for your country.",
+    false
+   ]
+  ],
+  "free": "Included",
+  "priceT": "Ready Site price",
+  "setup": "Setup",
+  "setupV": "£0 · US$0",
+  "setupS": "Delivered faster than a custom build",
+  "month": "Monthly",
+  "monthV": "£34 · US$45",
+  "monthS": "Hosting, SSL and business email included",
+  "year": "Pay yearly",
+  "yearV": "2 months free",
+  "yearS": "10 × the monthly fee, plus a free domain",
+  "note": "Ready Site prices for the Corporate Website package, November 2026. Prices in EUR, AED, PKR and other currencies on pentaservices.co.uk. 12-month minimum term from go-live."
+ },
+ "start": {
+  "k": "15 · How we start",
+  "h": "What we need <em>and what we do</em>",
+  "needT": "What we need from you",
+  "need": [
+   "Logo and colours, if you have them (otherwise we design them)",
+   "Business name, kitchen address, phone, email and areas you deliver to",
+   "Your menus with diets and allergens, and your packages and prices (or \"on request\")",
+   "Your best food and event photos",
+   "Team profiles: role, experience, photos",
+   "Office lunch menu and delivery rules, if you offer them"
+  ],
+  "doT": "What we do",
+  "do": [
+   "Adapt the design to your brand",
+   "Load your dishes, allergens and prices into the menu builder",
+   "Set up the quote, orders, forms and email",
+   "SEO, structured data and Google Business Profile",
+   "Test on phones, tablets and computers",
+   "Go live on your domain, then look after it"
+  ],
+  "why": "Tailored to you",
+  "whyP": "Every website is adapted to your business: your cuisines, menus, allergens, packages, delivery areas and team. The price model can use your real prices, show ranges or be hidden. For online payment we connect Stripe or PayPal. We send a clear proposal with no obligation."
+ },
+ "next": {
+  "k": "Next steps",
+  "h": "Ready for a website that <em>fills your diary?</em>",
+  "steps": [
+   [
+    "See the demo",
+    "Open the demo on your phone and computer. Try the menu builder, the instant quote and the office lunch order."
+   ],
+   [
+    "Talk to us",
+    "Message us on WhatsApp or email: we show you the site and answer every question, with no obligation."
+   ],
+   [
+    "Send us your details",
+    "Logo, menus with allergens, packages, photos and team profiles."
+   ],
+   [
+    "Approve and go live",
+    "You get a private preview link, approve it, and the site goes live on your domain."
+   ]
+  ],
+  "contactT": "Contact Penta Services",
+  "wa": "WhatsApp / phone",
+  "demo": "Live demo",
+  "about": "Penta Services: websites, apps, SEO and GEO, hosting. 15+ years across 50+ business sectors. Offices in London, Italy and Pakistan.",
+  "end": "One website. Beautiful food, clear prices, safe allergen information and an easy first booking."
+ }
+}

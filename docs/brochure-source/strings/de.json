@@ -1,0 +1,515 @@
+{
+ "lang": "de",
+ "dir": "ltr",
+ "foot": "Website für Caterer · Funktionsleitfaden",
+ "date": "November 2026",
+ "cover": {
+  "kick": "Website-Leitfaden für Caterer und Cateringunternehmen",
+  "h1": "Eine Catering-Website, die <em>aus hungrigen Besuchern gebuchte Verkostungen macht</em>",
+  "p": "Fertig, schnell und gebaut, um bei Google und KI-Assistenten gefunden zu werden. Menü-Baukasten mit Allergenen, Sofortangebot, Bestellung von Büro-Lunches und Planungstools inklusive. Wir passen sie an Ihr Unternehmen an, hosten sie und halten sie aktuell.",
+  "left": "Ready Site · Paket Unternehmenswebsite",
+  "demo": "Live-Vorschau"
+ },
+ "toc": {
+  "k": "Inhalt",
+  "h": "Was <em>dieser Leitfaden zeigt</em>",
+  "items": [
+   "Auf einen Blick",
+   "Die Startseite, Abschnitt für Abschnitt",
+   "Startseite für Hochzeiten",
+   "Leistungen und Leistungsseiten",
+   "Menü-Baukasten und Allergenübersicht",
+   "Sofortangebot und Beratungstermin",
+   "Bestellung von Büro-Lunches",
+   "Pakete und Planungstools",
+   "Angebots-Tracker, Team und Galerie",
+   "FAQ, Magazin und Kontakt",
+   "Interaktive Funktionen",
+   "Für das Smartphone gestaltet",
+   "Ihre Marke, Google und KI-Suche",
+   "Alles inklusive und Preis",
+   "Wie wir starten und nächste Schritte"
+  ],
+  "demoT": "Testen Sie die Live-Demo",
+  "demoP": "Marigold & Thyme ist ein fiktives Cateringunternehmen. Alle Namen, Gerichte, Preise, Zahlen und Bewertungen in der Demo sind Beispiele, die wir durch Ihre eigenen ersetzen."
+ },
+ "glance": {
+  "k": "1 · Auf einen Blick",
+  "h": "Wer einen Caterer bucht, <em>will schnell Menü und Preis sehen</em>",
+  "p": "Ein Brautpaar, eine Office-Managerin, die Mittagessen bestellt, oder eine Familie, die ein Zuckerfest plant: Alle suchen bei Google, fragen ChatGPT und vergleichen Caterer. Sie wollen das Essen sehen, die Kosten pro Gast kennen und sicher sein, dass Sie ihre Ernährungsweisen und Allergien berücksichtigen.",
+  "checkT": "Was Besucher prüfen",
+  "check": [
+   "Sieht das Essen gut aus, und kochen Sie meine Art von Menü?",
+   "Was kostet es ungefähr pro Gast, mit Personal und MwSt.?",
+   "Können Sie halal, vegan und Allergien sicher umsetzen?",
+   "Sind Sie an meinem Termin frei, und wie einfach ist die Buchung?"
+  ],
+  "giveT": "Was diese Website ihnen bietet",
+  "give": [
+   "Einen Menü-Baukasten mit 36 Gerichten, Ernährungsformen, Allergenen und Live-Preis",
+   "Ein Sofortangebot mit Personal, Extras und MwSt., Posten für Posten",
+   "Eine vollständige Allergenmatrix und klare Pakete pro Gast",
+   "Online-Bestellung von Büro-Lunches mit Lieferzeitfenstern"
+  ],
+  "stats": [
+   [
+    "26",
+    "Fertige Seiten, darunter 6 Leistungsseiten und 3 Ratgeber"
+   ],
+   [
+    "2",
+    "Startseiten: alle Anlässe und Hochzeiten"
+   ],
+   [
+    "6",
+    "Tools: Menü-Baukasten, Allergene, Angebot, Tracker, Mengen- und Personalrechner"
+   ],
+   [
+    "5",
+    "Schritte im Angebot, vom Anlass bis zum gebuchten Beratungstermin"
+   ]
+  ],
+  "who": "Gemacht für",
+  "for": [
+   "Event- und Hochzeitscaterer",
+   "Firmen- und Business-Caterer",
+   "Caterer für asiatische und Halal-Hochzeiten",
+   "Private Köche",
+   "BBQ-, Streetfood- und mobile Caterer",
+   "Buffet-, Grazing-Table- und Platten-Anbieter"
+  ]
+ },
+ "home": {
+  "k": "2 · Die Startseite",
+  "h": "Die Startseite, <em>Abschnitt für Abschnitt</em>",
+  "p": "Eine Seite für die drei großen Fragen: Sieht das Essen gut aus, was kostet es, wie buche ich?",
+  "s": [
+   [
+    "Foto-Hero mit Sofortpreis",
+    "Wechselndes Bogenfoto, zwei Buttons, Bewertungs- und Hygienesiegel und ein Live-Preischeck nach Anlass, Gästen und Stil."
+   ],
+   [
+    "Sechs Leistungen",
+    "Fotokarten für Hochzeiten, Firmen, Privatkoch, Feiern, BBQ und Buffets, jeweils mit Preis pro Gast."
+   ],
+   [
+    "Eine Küche, drei Traditionen",
+    "Eine Speisekarte, die zwischen britischen, südasiatischen und mediterranen Gerichten wechselt, mit Ernährungssymbolen."
+   ],
+   [
+    "Kennzahlen und Ablauf",
+    "Animierte Zähler und vier klare Schritte von der ersten Nachricht bis zum letzten Teller."
+   ],
+   [
+    "Vorschau des Menü-Baukastens",
+    "Ein Vorgeschmack auf den Menü-Baukasten: Gerichte, Preis pro Gast und Allergene."
+   ],
+   [
+    "Pakete mit Gäste-Regler",
+    "Hochzeits-, Firmen- und Partypakete; der Regler zeigt die Summe für Ihre Gästezahl."
+   ],
+   [
+    "Galerie, Bewertungen, Büro-Lunch, Vertrauen und FAQ",
+    "Aktuelle Events, ein Bewertungskarussell, Büro-Lunch-Angebot, Hygiene- und Halal-Siegel, Antworten und Artikel."
+   ]
+  ],
+  "why": "Warum das wichtig ist",
+  "whyP": "Einen Caterer wählt man mit Augen und Geldbeutel. Große Food-Fotos machen Appetit, und ein Preis im ersten Bildschirm macht aus Neugier eine Anfrage statt eines Anrufs mit „Was kostet das?“."
+ },
+ "home2": {
+  "k": "3 · Hochzeiten",
+  "h": "Eine zweite Startseite <em>für Hochzeiten</em>",
+  "p": "Hochzeiten sind der größte Auftrag für Caterer. Diese Seite spricht Paare und Familien direkt an, ideal für Werbung, Hochzeitsmessen, Instagram und Location-Partner.",
+  "s": [
+   [
+    "Hochzeits-Hero und Preis",
+    "Eine Hochzeitsüberschrift, der Sofortpreis auf Hochzeiten eingestellt und Kennzahlen."
+   ],
+   [
+    "Ist Ihr Termin frei?",
+    "Paare wählen ein Datum und sehen, wie viele Teams noch frei sind, mit Button zum Reservieren."
+   ],
+   [
+    "Pakete und Ablauf des Tages",
+    "Drei Hochzeitsmenüs mit Summen für Ihre Gästezahl und wann jeder Gang kommt."
+   ],
+   [
+    "Mehndi, Nikah und Walima",
+    "Eigene Menüs für jedes Fest einer asiatischen Hochzeit, dazu Bewertungen von Paaren und Hochzeits-FAQ."
+   ]
+  ],
+  "cap": "Hochzeitstermin-Check",
+  "capB": "Menüs für asiatische Hochzeiten"
+ },
+ "services": {
+  "k": "4 · Leistungen",
+  "h": "Leistungen und <em>Leistungsseiten</em>",
+  "p": "Eine Übersicht über alles, was Sie ausrichten, plus eine eigene Seite für jede Leistung, geschrieben für die Fragen, nach denen Menschen suchen.",
+  "a": [
+   [
+    "Leistungskarten",
+    "Foto, Symbol, Preis pro Gast und eine kurze Beschreibung."
+   ],
+   [
+    "Welche Servierart?",
+    "Eine Tabelle vergleicht Fingerfood, Buffet, Sharing und gesetztes Menü: wofür, Preis und benötigtes Personal."
+   ]
+  ],
+  "b": [
+   [
+    "Einleitung mit der Antwort zuerst",
+    "Was die Leistung ist, für wen sie passt, der Einstiegspreis und wann man buchen sollte."
+   ],
+   [
+    "Beispielmenü",
+    "Sechs Gerichte im Speisekarten-Stil, mit Ernährungssymbolen und Link zu den Allergenen."
+   ],
+   [
+    "Sofortpreis und Fragen",
+    "Der Preischeck auf diesen Anlass eingestellt, dazu FAQ mit strukturierten Daten."
+   ],
+   [
+    "Verwandte Leistungen",
+    "Drei weitere Leistungen, damit Besucher weiterstöbern."
+   ]
+  ],
+  "capA": "Leistungsübersicht",
+  "capB": "Leistungsseite: Hochzeitscatering"
+ },
+ "menus": {
+  "k": "5 · Menü-Baukasten & Allergene",
+  "h": "Kunden stellen ihr Menü selbst zusammen, <em>mit allen Allergenen</em>",
+  "p": "Die Funktion, die den meisten Catering-Websites fehlt. Besucher wählen Gerichte, sehen den Preis pro Gast und senden Ihnen das Menü. Jedes Gericht zeigt Ernährungsformen und die 14 Hauptallergene.",
+  "a": [
+   [
+    "Filter",
+    "Gang, Ernährung (vegetarisch, vegan, halal, glutenfrei, laktosefrei), frei von jedem der 14 Allergene, Suche."
+   ],
+   [
+    "Ihr Menü-Tablett",
+    "Gerichte nach Gang, Gäste und Servierart, Preis pro Gast und Summe, alles im Browser gespeichert."
+   ]
+  ],
+  "b": [
+   [
+    "Allergenübersicht",
+    "Das Tablett listet alle Allergene des gewählten Menüs. Herunterladen oder direkt ins Angebot übernehmen."
+   ],
+   [
+    "Allergenmatrix",
+    "36 Gerichte mal 14 Allergene in einer Tabelle. Allergene ausblenden oder nur vegane bzw. Halal-Gerichte zeigen."
+   ]
+  ],
+  "capA": "Menü-Baukasten mit Halal-Filter und 7 gewählten Gerichten",
+  "capB": "Ihr Menü: Preis und Allergene",
+  "capC": "Allergenmatrix, Nüsse und Gluten ausgeblendet"
+ },
+ "quote": {
+  "k": "6 · Sofortangebot",
+  "h": "Ein Angebot, das <em>mit einem gebuchten Termin endet</em>",
+  "p": "Statt eines Kontaktformulars beantworten Besucher fünf kurze Schritte. Sie sehen vorab eine Schätzung Posten für Posten, und Sie erhalten eine qualifizierte Anfrage mit allen Details.",
+  "a": [
+   [
+    "Anlass, Datum und Gäste",
+    "Fünf Anlässe, Datum, Gäste-Regler, PLZ der Location und ob es eine Küche gibt. Vorausgefüllt aus Leistungsseiten, Paketen und Menü-Baukasten."
+   ],
+   [
+    "Essen und Ernährung",
+    "Servierart, das Menü aus dem Baukasten, Zahl der Vegetarier, halal und Allergien."
+   ]
+  ],
+  "b": [
+   [
+    "Live-Schätzung",
+    "Essen, Menüaufpreise, Personal (Service und Köche nach Gästezahl), Extras, Lieferung und MwSt."
+   ],
+   [
+    "Beratung buchen",
+    "Telefon, Video oder Verkostung in Ihrer Küche, mit Datum und Zeitfenster."
+   ]
+  ],
+  "capA": "Schritt 3: Servierart und Menü",
+  "capB": "Schritt 4: Extras und Schätzung",
+  "capC": "Anfrage gesendet, mit Referenznummer",
+  "why": "Warum das wichtig ist",
+  "whyP": "Jede Frage ist einfach, deshalb schließen weit mehr Besucher ab als bei einem langen Formular. Ihr Team kennt beim Gespräch schon Datum, Gäste, Menü, Ernährung und Budget."
+ },
+ "office": {
+  "k": "7 · Büro-Lunches",
+  "h": "Büro-Lunches, <em>online bestellt</em>",
+  "p": "Regelmäßige Firmenbestellungen sind das stabile Einkommen eines Cateringunternehmens. Office-Manager bestellen Platten, Bowls und warme Gerichte in zwei Minuten, ohne Anruf.",
+  "a": [
+   [
+    "Menü mit Mengen",
+    "Jeder Artikel zeigt Portionen, Ernährungsformen und Preis, mit Plus- und Minus-Buttons."
+   ],
+   [
+    "Bestellregeln integriert",
+    "Mindestbestellwert, kostenlose Lieferung ab einem Betrag, Lieferung werktags ab morgen und Zeitfenster."
+   ]
+  ],
+  "b": [
+   [
+    "PLZ-Prüfung",
+    "Nur Ihre Liefergebiete werden akzeptiert, mit klarer Meldung für alle anderen."
+   ],
+   [
+    "Bestellnummer",
+    "Eine Bestätigung mit Referenz und ein Button „Letzte Bestellung wiederholen“ für das nächste Mal."
+   ]
+  ],
+  "capA": "Büro-Lunch-Menü",
+  "capB": "Warenkorb mit Lieferdatum, Uhrzeit und PLZ",
+  "capC": "Bestellung aufgegeben"
+ },
+ "plan": {
+  "k": "8 · Pakete & Planungstools",
+  "h": "Klare Pakete <em>und Tools zum Planen</em>",
+  "p": "Kunden wollen wissen, was sie für ihr Geld bekommen und wie viel Essen und Personal sie brauchen.",
+  "a": [
+   [
+    "Paket-Reiter und Gäste-Regler",
+    "Hochzeiten, Firmen und Partys, je drei Pakete, mit der Summe für die Gästezahl des Besuchers."
+   ],
+   [
+    "Mengenrechner",
+    "Gäste, Stunden, Stil und Appetit ergeben Fingerfood, Kilo Essen, Reis, Naan, Desserts, Getränke und Eis."
+   ]
+  ],
+  "b": [
+   [
+    "Personalrechner",
+    "Service, Köche, Barpersonal und Leitung für Gäste und Servierart, mit den Personalkosten."
+   ],
+   [
+    "Servierplan",
+    "Wann jeder Gang serviert wird, ab Ankunft der Gäste."
+   ]
+  ],
+  "capA": "Pakete mit Summen für 150 Gäste",
+  "capB": "Mengenrechner",
+  "capC": "Personalrechner"
+ },
+ "track": {
+  "k": "9 · Tracker, Team & Galerie",
+  "h": "Kunden verfolgen ihre Buchung <em>und lernen Ihr Team kennen</em>",
+  "p": "Nach dem Angebot wollen Kunden wissen, wie es weitergeht. Der Tracker zeigt es, und Team- und Galerieseite zeigen, wer kocht und serviert.",
+  "a": [
+   [
+    "Angebots-Tracker",
+    "Referenz eingeben und Angebot, Verkostung, Anzahlungen, finale Gästezahl und Eventtag sehen, mit Kalenderdatei."
+   ],
+   [
+    "Weniger Nachfrage-Anrufe",
+    "Kunden sehen jedes Datum und jeden Betrag, ohne anzurufen."
+   ]
+  ],
+  "b": [
+   [
+    "Teamprofile",
+    "Foto, Rolle und Geschichte in einem Popup für jeden Koch und jede Leitung."
+   ],
+   [
+    "Galerie",
+    "Filter nach Hochzeiten, Firmen, Partys, Outdoor und Essen, mit Vollbild-Lightbox."
+   ]
+  ],
+  "capA": "Angebots-Tracker",
+  "capB": "Kochprofil",
+  "capC": "Galerie mit Filtern und Lightbox"
+ },
+ "more": {
+  "k": "10 · FAQ, Magazin, Kontakt",
+  "h": "Antworten, Artikel <em>und alle Wege zu Ihnen</em>",
+  "faq": [
+   "Durchsuchbare FAQ",
+   "Besucher tippen ein Wort, und passende Fragen öffnen sich mit Hervorhebung. Themenfilter und strukturierte FAQ-Daten."
+  ],
+  "blog": [
+   "Magazin",
+   "Ratgeber zu Mengen pro Gast, Kosten für Hochzeitscatering und Allergenen, geschrieben, um von Google und KI-Assistenten zitiert zu werden."
+  ],
+  "contact": [
+   "Kontakt",
+   "Küchenadresse, Karte, Öffnungszeiten, WhatsApp, Telefon und ein kurzes Kontaktformular mit Spamschutz."
+  ],
+  "capFaq": "FAQ-Live-Suche",
+  "capBlog": "Artikel: wie viel Essen pro Gast",
+  "capContact": "Kontaktseite"
+ },
+ "feats": {
+  "k": "11 · Interaktive Funktionen",
+  "h": "Funktionen, <em>die Besucher fesseln</em>",
+  "items": [
+   [
+    "Sofortpreis im Hero",
+    "Eine Preisspanne nach Anlass, Gästen und Stil, bevor der Besucher scrollt."
+   ],
+   [
+    "Seitensuche",
+    "Durchsucht Gerichte, Leistungen, Büro-Lunches, Team, Fragen und Artikel (auch Ctrl/Cmd + K)."
+   ],
+   [
+    "Hochzeitstermin-Check",
+    "Zeigt, wie viele Teams am Wunschtermin des Paares frei sind."
+   ],
+   [
+    "WhatsApp, Anruf und mobile Leiste",
+    "Ein WhatsApp-Button, Anruf per Fingertipp und eine Leiste Anrufen / WhatsApp / Sofortangebot auf dem Smartphone."
+   ],
+   [
+    "Schnell und leicht",
+    "Schlanker Code, komprimierte Bilder und schnelles Laden auf dem Smartphone."
+   ],
+   [
+    "Leicht zu pflegen",
+    "Alle Inhalte an einem Ort: Gericht, Allergen oder Paketpreis einmal ändern, und jede Seite ist aktuell."
+   ]
+  ],
+  "capCalc": "Vorschau des Menü-Baukastens auf der Startseite",
+  "capSearch": "Seitensuche"
+ },
+ "mobile": {
+  "k": "12 · Mobil",
+  "h": "Gestaltet <em>für das Smartphone</em>",
+  "p": "Die meisten Kunden planen auf dem Smartphone, oft am Abend. Das Menü klappt in eine Seitenleiste, das Menü-Tablett gleitet von unten herein, und eine Leiste hält Anrufen, WhatsApp und Sofortangebot einen Fingertipp entfernt.",
+  "caps": [
+   "Startseite",
+   "Menü",
+   "Menü-Baukasten",
+   "Sofortangebot"
+  ]
+ },
+ "search": {
+  "k": "13 · Marke und Suche",
+  "h": "Ihre Marke, <em>Google und KI-Suche</em>",
+  "p": "Die Demo nutzt tiefes Thymiangrün mit Ringelblumengelb, Fraunces für Überschriften und DM Sans für Fließtext: warm, appetitlich und vertrauenswürdig. Wir ersetzen das durch Ihr Logo, Ihre Farben und Food-Fotos.",
+  "seoT": "Google (SEO)",
+  "seo": [
+   "Eigener Titel und eigene Beschreibung auf jeder Seite",
+   "Strukturierte Daten: FoodEstablishment, Service mit Preis pro Gast, Menu mit Ernährungsformen, FAQPage, Article und Breadcrumb",
+   "Eine eigene Seite für jede Leistung, dazu Menü-, Allergen- und Paketseiten",
+   "Sitemap, saubere URLs und schnelles Laden"
+  ],
+  "geoT": "KI-Assistenten (GEO)",
+  "geo": [
+   "Leistungsseiten und FAQ mit der Antwort zuerst",
+   "Ratgeber mit echten Mengen und Preisen, die KI-Tools zitieren können",
+   "Einheitlicher Name, Adresse und Telefonnummer überall",
+   "Eine llms.txt-Zusammenfassung Ihrer Leistungen, Menüs und Tools"
+  ],
+  "qT": "Suchanfragen, für die die Website gebaut ist",
+  "q": [
+   "Catering [Stadt]",
+   "Hochzeitscatering [Region]",
+   "Catering für asiatische Hochzeiten",
+   "Halal Catering [Stadt]",
+   "Firmencatering [Stadt]",
+   "Mittagessen ins Büro liefern",
+   "Catering Kosten pro Person",
+   "wie viel Essen pro Gast"
+  ],
+  "why": "Warum das wichtig ist",
+  "whyP": "Immer mehr Menschen fragen ChatGPT, Gemini oder Google AI, welchen Caterer sie nehmen sollen und was Catering kostet. KI-Assistenten zitieren Websites mit klaren Antworten und einheitlichen Angaben. Wir garantieren keine Rankings oder Zitierungen, berichten aber jeden Monat über die Fortschritte."
+ },
+ "inc": {
+  "k": "14 · Alles inklusive",
+  "h": "Domain, Hosting und E-Mail: <em>wir kümmern uns um alles</em>",
+  "p": "Die Website kommt komplett und einsatzbereit. Um Technik müssen Sie sich nie kümmern.",
+  "items": [
+   [
+    "Domain",
+    "Kostenlose .com-, .net- oder .org-Domain bei jährlicher Zahlung, oder wir verbinden Ihre.",
+    true
+   ],
+   [
+    "Schnelles, sicheres Hosting",
+    "Zuverlässige Server, SSL-Zertifikat (https) und regelmäßige Backups.",
+    true
+   ],
+   [
+    "Geschäftliche E-Mail",
+    "Postfächer auf Ihrer eigenen Domain (z. B. hallo@ihrefirma.de).",
+    true
+   ],
+   [
+    "Updates und Support",
+    "Wir halten die Website aktuell und sicher und setzen Änderungen um.",
+    false
+   ],
+   [
+    "Google-Unternehmensprofil",
+    "Ihr Eintrag in Google Maps, eingerichtet und mit der Website verknüpft.",
+    false
+   ],
+   [
+    "Datenschutz und Cookies",
+    "Datenschutzerklärung und Cookie-Einwilligung für Ihr Land.",
+    false
+   ]
+  ],
+  "free": "Inklusive",
+  "priceT": "Ready-Site-Preis",
+  "setup": "Einrichtung",
+  "setupV": "0 €",
+  "setupS": "Schneller geliefert als eine individuelle Website",
+  "month": "Monatlich",
+  "monthV": "39 €",
+  "monthS": "Hosting, SSL und geschäftliche E-Mail inklusive",
+  "year": "Jährliche Zahlung",
+  "yearV": "2 Monate gratis",
+  "yearS": "10 × die Monatsgebühr, plus kostenlose Domain",
+  "note": "Ready-Site-Preise, Paket Unternehmenswebsite, November 2026. Andere Währungen auf pentaservices.co.uk. Mindestlaufzeit 12 Monate ab Livegang."
+ },
+ "start": {
+  "k": "15 · Wie wir starten",
+  "h": "Was wir brauchen <em>und was wir tun</em>",
+  "needT": "Was wir von Ihnen brauchen",
+  "need": [
+   "Logo und Farben, falls vorhanden (sonst gestalten wir sie)",
+   "Firmenname, Küchenadresse, Telefon, E-Mail und Liefergebiete",
+   "Ihre Menüs mit Ernährungsformen und Allergenen, Pakete und Preise (oder „auf Anfrage“)",
+   "Ihre besten Food- und Eventfotos",
+   "Teamprofile: Rolle, Erfahrung, Fotos",
+   "Büro-Lunch-Menü und Lieferregeln, falls angeboten"
+  ],
+  "doT": "Was wir tun",
+  "do": [
+   "Das Design an Ihre Marke anpassen",
+   "Gerichte, Allergene und Preise in den Menü-Baukasten laden",
+   "Angebot, Bestellungen, Formulare und E-Mail einrichten",
+   "SEO, strukturierte Daten und Google-Unternehmensprofil",
+   "Tests auf Smartphones, Tablets und Computern",
+   "Livegang auf Ihrer Domain, danach betreuen wir sie"
+  ],
+  "why": "Auf Sie zugeschnitten",
+  "whyP": "Jede Website wird an Ihr Unternehmen angepasst: Ihre Küchen, Menüs, Allergene, Pakete, Liefergebiete und Ihr Team. Das Preismodell kann Ihre echten Preise nutzen, Spannen zeigen oder ausgeblendet werden. Für Online-Zahlungen binden wir Stripe oder PayPal an. Sie erhalten ein klares, unverbindliches Angebot."
+ },
+ "next": {
+  "k": "Nächste Schritte",
+  "h": "Bereit für eine Website, die <em>Ihren Kalender füllt?</em>",
+  "steps": [
+   [
+    "Demo ansehen",
+    "Öffnen Sie die Demo auf Smartphone und Computer. Testen Sie Menü-Baukasten, Sofortangebot und Büro-Lunch-Bestellung."
+   ],
+   [
+    "Mit uns sprechen",
+    "Schreiben Sie uns per WhatsApp oder E-Mail: Wir zeigen Ihnen die Website und beantworten jede Frage, unverbindlich."
+   ],
+   [
+    "Ihre Angaben senden",
+    "Logo, Menüs mit Allergenen, Pakete, Fotos und Teamprofile."
+   ],
+   [
+    "Freigeben und live gehen",
+    "Sie erhalten einen privaten Vorschau-Link, geben ihn frei, und die Website geht auf Ihrer Domain live."
+   ]
+  ],
+  "contactT": "Kontakt zu Penta Services",
+  "wa": "WhatsApp / Telefon",
+  "demo": "Live-Demo",
+  "about": "Penta Services: Websites, Apps, SEO und GEO, Hosting. Über 15 Jahre Erfahrung in mehr als 50 Branchen. Büros in London, Italien und Pakistan.",
+  "end": "Eine Website. Schönes Essen, klare Preise, sichere Allergenangaben und eine einfache erste Buchung."
+ }
+}

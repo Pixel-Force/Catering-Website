@@ -1,0 +1,515 @@
+{
+ "lang": "it",
+ "dir": "ltr",
+ "foot": "Sito web per catering · Guida alle funzioni",
+ "date": "Novembre 2026",
+ "cover": {
+  "kick": "Guida al sito per catering e aziende di catering",
+  "h1": "Un sito per il catering che <em>trasforma la curiosità in degustazioni prenotate</em>",
+  "p": "Pronto all'uso, veloce e pensato per farsi trovare su Google e dagli assistenti AI. Composizione del menù con allergeni, preventivi immediati, ordini di pranzi per uffici e strumenti di pianificazione inclusi. Lo adattiamo alla tua attività, lo ospitiamo e lo teniamo aggiornato.",
+  "left": "Ready Site · Pacchetto Sito Aziendale",
+  "demo": "Anteprima live"
+ },
+ "toc": {
+  "k": "Indice",
+  "h": "Cosa trovi <em>in questa guida</em>",
+  "items": [
+   "In sintesi",
+   "La homepage, sezione per sezione",
+   "Homepage per i matrimoni",
+   "Servizi e pagine dei servizi",
+   "Composizione del menù e allergeni",
+   "Preventivo immediato e consulenza",
+   "Ordini di pranzi per uffici",
+   "Pacchetti e strumenti di pianificazione",
+   "Stato del preventivo, team e galleria",
+   "FAQ, blog e contatti",
+   "Funzioni interattive",
+   "Pensato per il telefono",
+   "Il tuo marchio, Google e la ricerca AI",
+   "Tutto incluso e prezzo",
+   "Come iniziamo e prossimi passi"
+  ],
+  "demoT": "Prova la demo live",
+  "demoP": "Marigold & Thyme è un'azienda di catering inventata. Ogni nome, piatto, prezzo, dato e recensione della demo è un esempio che sostituiamo con i tuoi."
+ },
+ "glance": {
+  "k": "1 · In sintesi",
+  "h": "Chi cerca un catering <em>vuole subito menù e prezzo</em>",
+  "p": "Una coppia che prepara il matrimonio, un responsabile d'ufficio che ordina il pranzo o una famiglia che organizza una festa per l'Eid cerca su Google, chiede a ChatGPT e confronta più catering. Vuole vedere i piatti, sapere quanto costa a persona ed essere sicura che gestirai diete e allergie.",
+  "checkT": "Cosa controllano i visitatori",
+  "check": [
+   "I piatti sono invitanti, e cucinate il menù che cerco?",
+   "Quanto costa più o meno a persona, con personale e IVA?",
+   "Gestite in sicurezza halal, vegano e allergie?",
+   "Siete liberi nella mia data, e quanto è facile prenotare?"
+  ],
+  "giveT": "Cosa offre questo sito",
+  "give": [
+   "Un compositore di menù con 36 piatti, diete, allergeni e prezzo in tempo reale",
+   "Un preventivo immediato con personale, extra e IVA, voce per voce",
+   "Una tabella allergeni completa e pacchetti chiari a persona",
+   "Ordini online di pranzi per uffici, con fasce di consegna"
+  ],
+  "stats": [
+   [
+    "26",
+    "Pagine pronte, tra cui 6 di servizi e 3 guide"
+   ],
+   [
+    "2",
+    "Stili di homepage: tutti gli eventi e matrimoni"
+   ],
+   [
+    "6",
+    "Strumenti: menù, allergeni, preventivo, stato, calcolo cibo e personale"
+   ],
+   [
+    "5",
+    "Passi nel preventivo, dal tipo di evento alla consulenza prenotata"
+   ]
+  ],
+  "who": "Pensato per",
+  "for": [
+   "Catering per eventi e matrimoni",
+   "Catering aziendale e per uffici",
+   "Catering per matrimoni asiatici e halal",
+   "Chef a domicilio",
+   "Barbecue, street food e catering mobile",
+   "Buffet, grazing table e vassoi"
+  ]
+ },
+ "home": {
+  "k": "2 · La homepage",
+  "h": "La homepage, <em>sezione per sezione</em>",
+  "p": "Una pagina che risponde alle tre grandi domande: il cibo è invitante, quanto costerà e come prenoto.",
+  "s": [
+   [
+    "Apertura fotografica con prezzo immediato",
+    "Una foto ad arco a rotazione, due pulsanti, valutazioni e badge igiene, e un calcolo del prezzo per evento, ospiti e stile di servizio."
+   ],
+   [
+    "Sei servizi",
+    "Schede fotografiche per matrimoni, aziende, chef a domicilio, feste, barbecue e buffet, ciascuna con il prezzo a persona."
+   ],
+   [
+    "Una cucina, tre tradizioni",
+    "Un menù stampato che passa da piatti britannici a sud-asiatici e mediterranei, con i badge delle diete."
+   ],
+   [
+    "Numeri e metodo",
+    "Contatori animati e quattro passi chiari dal primo messaggio all'ultimo piatto sparecchiato."
+   ],
+   [
+    "Anteprima del compositore di menù",
+    "Un assaggio del compositore: piatti, prezzo a persona e allergeni."
+   ],
+   [
+    "Pacchetti con cursore ospiti",
+    "Pacchetti per matrimoni, aziende e feste; il cursore mostra il totale per il numero di ospiti."
+   ],
+   [
+    "Galleria, recensioni, pranzi in ufficio, garanzie e FAQ",
+    "Eventi recenti, un carosello di recensioni, la promozione dei pranzi in ufficio, badge igiene e halal, risposte e articoli."
+   ]
+  ],
+  "why": "Perché conta",
+  "whyP": "Un catering si sceglie con gli occhi e con il portafoglio. Grandi foto dei piatti mettono appetito, e un prezzo nella prima schermata trasforma la curiosità in una richiesta invece che in una telefonata per chiedere \"quanto costa?\"."
+ },
+ "home2": {
+  "k": "3 · Matrimoni",
+  "h": "Una homepage <em>per i matrimoni</em>",
+  "p": "I matrimoni sono la prenotazione più importante per un catering. Questa pagina parla a coppie e famiglie: ideale per pubblicità, fiere sposi e Instagram.",
+  "s": [
+   [
+    "Apertura e prezzo per le nozze",
+    "Titolo dedicato, prezzo immediato sui matrimoni e dati chiave."
+   ],
+   [
+    "La tua data è libera?",
+    "Gli sposi scelgono una data e vedono quante squadre sono libere, e possono bloccarla."
+   ],
+   [
+    "Pacchetti e programma",
+    "Tre menù nuziali con il totale per i loro ospiti, e l'orario di ogni portata."
+   ],
+   [
+    "Mehndi, nikah e walima",
+    "Menù per ogni evento del matrimonio asiatico, più recensioni e FAQ sulle nozze."
+   ]
+  ],
+  "cap": "Verifica della data di nozze",
+  "capB": "Menù per matrimoni asiatici"
+ },
+ "services": {
+  "k": "4 · Servizi",
+  "h": "Servizi e <em>pagine dei servizi</em>",
+  "p": "Una panoramica di tutto ciò che offri, più una pagina dedicata a ogni servizio, scritta per rispondere a ciò che le persone cercano.",
+  "a": [
+   [
+    "Schede servizio",
+    "Foto, icona, prezzo a persona e una breve descrizione."
+   ],
+   [
+    "Quale stile di servizio?",
+    "Una tabella che confronta finger food, buffet, servizio condiviso e servito al tavolo: per cosa è adatto, prezzo e personale."
+   ]
+  ],
+  "b": [
+   [
+    "Introduzione con la risposta in apertura",
+    "Cos'è il servizio, a chi si rivolge, il prezzo di partenza e quando prenotare."
+   ],
+   [
+    "Menù di esempio",
+    "Sei piatti in stile menù stampato, con i badge delle diete e un link agli allergeni."
+   ],
+   [
+    "Prezzo immediato e domande",
+    "Il calcolo del prezzo impostato su quel tipo di evento, più FAQ con dati strutturati."
+   ],
+   [
+    "Servizi correlati",
+    "Altri tre servizi, così i visitatori continuano a esplorare."
+   ]
+  ],
+  "capA": "Panoramica dei servizi",
+  "capB": "Pagina servizio: catering per matrimoni"
+ },
+ "menus": {
+  "k": "5 · Menù e allergeni",
+  "h": "Il cliente compone il suo menù, <em>con ogni allergene in vista</em>",
+  "p": "La funzione che quasi nessun sito di catering ha. I visitatori scelgono i piatti, vedono cambiare il prezzo a persona e ti inviano il menù. Ogni piatto mostra diete e i 14 allergeni.",
+  "a": [
+   [
+    "Filtri",
+    "Portata, dieta (vegetariana, vegana, halal, senza glutine, senza lattosio), senza uno dei 14 allergeni e una ricerca."
+   ],
+   [
+    "Il tuo menù",
+    "Piatti per portata, ospiti e stile di servizio, prezzo a persona e totale, tutto salvato nel browser."
+   ]
+  ],
+  "b": [
+   [
+    "Riepilogo allergeni",
+    "Elenca ogni allergene dei piatti scelti. Si scarica o si invia direttamente in un preventivo."
+   ],
+   [
+    "Tabella allergeni",
+    "36 piatti per 14 allergeni in una sola tabella. Nascondi un allergene o mostra solo i piatti vegani o halal."
+   ]
+  ],
+  "capA": "Compositore di menù con filtro halal e 7 piatti scelti",
+  "capB": "Il tuo menù: prezzo e allergeni",
+  "capC": "Tabella allergeni, frutta a guscio e glutine nascosti"
+ },
+ "quote": {
+  "k": "6 · Preventivo immediato",
+  "h": "Un preventivo che <em>si chiude con una consulenza prenotata</em>",
+  "p": "Invece di un modulo di contatto, il visitatore risponde a cinque brevi passi. Vede una stima voce per voce prima di inviare, e tu ricevi una richiesta qualificata con ogni dettaglio.",
+  "a": [
+   [
+    "Evento, data e ospiti",
+    "Cinque tipi di evento, data, cursore ospiti, CAP della location e se la location ha una cucina. Precompilato da pagine servizio, pacchetti e compositore di menù."
+   ],
+   [
+    "Cibo e diete",
+    "Stile di servizio, il menù composto, numero di vegetariani, halal e allergie."
+   ]
+  ],
+  "b": [
+   [
+    "Stima in tempo reale",
+    "Cibo, supplementi del menù, personale (camerieri e cuochi calcolati sugli ospiti), extra, consegna e IVA."
+   ],
+   [
+    "Prenota la consulenza",
+    "Telefono, video o degustazione nella tua cucina, con data e fascia oraria."
+   ]
+  ],
+  "capA": "Passo 3: stile di servizio e menù",
+  "capB": "Passo 4: extra e stima",
+  "capC": "Richiesta inviata, con numero di riferimento",
+  "why": "Perché conta",
+  "whyP": "Ogni passo pone una sola domanda semplice, così molti più visitatori arrivano in fondo rispetto a un lungo modulo. Il tuo team inizia la chiamata conoscendo già data, ospiti, menù, diete e budget."
+ },
+ "office": {
+  "k": "7 · Pranzi in ufficio",
+  "h": "Pranzi in ufficio, <em>ordinati online</em>",
+  "p": "Gli ordini ricorrenti di pranzi aziendali sono l'entrata stabile di un catering. I responsabili d'ufficio ordinano vassoi, bowl e piatti caldi in due minuti, senza telefonare.",
+  "a": [
+   [
+    "Menù con quantità",
+    "Ogni prodotto indica per quante persone è, le diete e il prezzo, con i pulsanti + e −."
+   ],
+   [
+    "Regole d'ordine integrate",
+    "Ordine minimo, consegna gratuita sopra una soglia, consegna nei giorni feriali da domani e fasce orarie."
+   ]
+  ],
+  "b": [
+   [
+    "Verifica del CAP",
+    "Sono accettate solo le tue zone di consegna, con un messaggio chiaro per le altre."
+   ],
+   [
+    "Numero d'ordine",
+    "Una conferma con numero di riferimento e un pulsante \"ripeti l'ultimo ordine\" per la volta successiva."
+   ]
+  ],
+  "capA": "Menù pranzi per uffici",
+  "capB": "Carrello con data, ora e CAP di consegna",
+  "capC": "Ordine effettuato"
+ },
+ "plan": {
+  "k": "8 · Pacchetti e pianificazione",
+  "h": "Pacchetti chiari <em>e gli strumenti per pianificare</em>",
+  "p": "I clienti vogliono sapere cosa ottengono per la cifra spesa, e quanto cibo e quanto personale servono.",
+  "a": [
+   [
+    "Pacchetti a schede e cursore ospiti",
+    "Matrimoni, aziende e feste, tre pacchetti ciascuno, con il totale per il numero di ospiti del visitatore."
+   ],
+   [
+    "Calcolo delle quantità",
+    "Ospiti, ore, stile e appetito danno finger food, chili di cibo, riso, naan, dolci, bevande e ghiaccio."
+   ]
+  ],
+  "b": [
+   [
+    "Calcolo del personale",
+    "Camerieri, cuochi, baristi e un responsabile per ospiti e stile di servizio, con il costo del personale."
+   ],
+   [
+    "Programma delle portate",
+    "Quando deve uscire ogni portata, a partire dall'arrivo degli ospiti."
+   ]
+  ],
+  "capA": "Pacchetti con totali per 150 ospiti",
+  "capB": "Calcolo delle quantità di cibo",
+  "capC": "Calcolo del personale"
+ },
+ "track": {
+  "k": "9 · Stato, team e galleria",
+  "h": "Il cliente segue la prenotazione <em>e conosce il tuo team</em>",
+  "p": "Dopo il preventivo il cliente vuole sapere cosa succede. Lo stato del preventivo glielo mostra, e le pagine team e galleria mostrano chi cucinerà e servirà.",
+  "a": [
+   [
+    "Stato del preventivo",
+    "Con il numero di riferimento si vedono proposta, degustazione, acconti, numeri definitivi e giorno dell'evento, con file per il calendario."
+   ],
+   [
+    "Meno telefonate \"solo per sapere\"",
+    "Il cliente vede ogni data e importo senza chiamare."
+   ]
+  ],
+  "b": [
+   [
+    "Profili del team",
+    "Foto, ruolo e storia in un popup per ogni chef e responsabile."
+   ],
+   [
+    "Galleria",
+    "Filtri per matrimoni, aziende, feste, all'aperto e cibo, con lightbox a tutto schermo."
+   ]
+  ],
+  "capA": "Stato del preventivo",
+  "capB": "Profilo dello chef",
+  "capC": "Galleria con filtri e lightbox"
+ },
+ "more": {
+  "k": "10 · FAQ, blog, contatti",
+  "h": "Risposte, articoli <em>e tutti i modi per raggiungerti</em>",
+  "faq": [
+   "FAQ con ricerca",
+   "Il visitatore digita una parola e le domande corrispondenti si aprono evidenziate. Filtri per argomento e dati strutturati FAQ."
+  ],
+  "blog": [
+   "Blog",
+   "Guide sulle quantità a persona, sui costi del catering per matrimoni e sugli allergeni, scritte per essere citate da Google e dagli assistenti AI."
+  ],
+  "contact": [
+   "Contatti",
+   "Indirizzo della cucina, mappa, orari, WhatsApp, telefono e un breve modulo di contatto con protezione antispam."
+  ],
+  "capFaq": "Ricerca istantanea nelle FAQ",
+  "capBlog": "Articolo: quanto cibo a persona",
+  "capContact": "Pagina contatti"
+ },
+ "feats": {
+  "k": "11 · Funzioni interattive",
+  "h": "Funzioni che <em>tengono i visitatori sul sito</em>",
+  "items": [
+   [
+    "Prezzo immediato in apertura",
+    "Una fascia di prezzo per tipo di evento, ospiti e stile, prima ancora di scorrere."
+   ],
+   [
+    "Ricerca nel sito",
+    "Cerca tra piatti, servizi, pranzi in ufficio, team, domande e articoli (anche Ctrl/Cmd + K)."
+   ],
+   [
+    "Verifica della data di nozze",
+    "Mostra quante squadre sono libere nella data degli sposi."
+   ],
+   [
+    "WhatsApp, chiamata e barra mobile",
+    "Un pulsante WhatsApp, chiamata con un tocco e una barra Chiama / WhatsApp / Preventivo sul telefono."
+   ],
+   [
+    "Veloce e leggero",
+    "Codice essenziale, immagini compresse e caricamento rapido sul telefono."
+   ],
+   [
+    "Facile da aggiornare",
+    "Tutti i contenuti in un unico posto: cambi un piatto, un allergene o un prezzo una volta e si aggiornano tutte le pagine."
+   ]
+  ],
+  "capCalc": "Anteprima del compositore di menù in homepage",
+  "capSearch": "Ricerca nel sito"
+ },
+ "mobile": {
+  "k": "12 · Mobile",
+  "h": "Pensato <em>per il telefono</em>",
+  "p": "La maggior parte dei clienti pianifica dal telefono, spesso la sera. Il menù di navigazione si chiude in un pannello laterale, il menù composto scorre dal basso e una barra tiene Chiama, WhatsApp e Preventivo a un tocco.",
+  "caps": [
+   "Homepage",
+   "Navigazione",
+   "Compositore di menù",
+   "Preventivo immediato"
+  ]
+ },
+ "search": {
+  "k": "13 · Marchio e ricerca",
+  "h": "Il tuo marchio, <em>Google e la ricerca AI</em>",
+  "p": "La demo usa un verde timo profondo con arancio calendula, Fraunces per i titoli e DM Sans per il testo: caldo, appetitoso e affidabile. Li sostituiamo con il tuo logo, i tuoi colori e le foto dei tuoi piatti.",
+  "seoT": "Google (SEO)",
+  "seo": [
+   "Title e description unici in ogni pagina",
+   "Dati strutturati FoodEstablishment, Service con prezzo a persona, Menu con diete, FAQPage, Article e Breadcrumb",
+   "Una pagina separata per ogni servizio, più pagine menù, allergeni e pacchetti",
+   "Sitemap, indirizzi puliti e caricamento rapido"
+  ],
+  "geoT": "Assistenti AI (GEO)",
+  "geo": [
+   "Pagine servizio e FAQ con la risposta in apertura",
+   "Guide con quantità e prezzi reali che gli strumenti AI possono citare",
+   "Nome, indirizzo e telefono coerenti ovunque",
+   "Un riepilogo llms.txt di servizi, menù e strumenti"
+  ],
+  "qT": "Ricerche per cui il sito è costruito",
+  "q": [
+   "catering [città]",
+   "catering matrimoni [regione]",
+   "catering per matrimoni indiani",
+   "catering halal [città]",
+   "catering aziendale [città]",
+   "pranzo in ufficio a domicilio",
+   "quanto costa un catering a persona",
+   "quanto cibo a persona per un buffet"
+  ],
+  "why": "Perché conta",
+  "whyP": "Sempre più persone chiedono a ChatGPT, Gemini o Google AI a quale catering affidarsi e quanto costa. Gli assistenti AI citano siti con risposte chiare e dati coerenti. Non garantiamo posizionamenti né citazioni, ma ogni mese ti riportiamo i progressi."
+ },
+ "inc": {
+  "k": "14 · Tutto incluso",
+  "h": "Dominio, hosting ed email: <em>pensiamo a tutto noi</em>",
+  "p": "Il sito arriva completo e pronto all'uso. Non devi mai occuparti di nulla di tecnico.",
+  "items": [
+   [
+    "Dominio",
+    "Un dominio .com, .net o .org gratuito con pagamento annuale, oppure colleghiamo il tuo.",
+    true
+   ],
+   [
+    "Hosting veloce e sicuro",
+    "Server affidabili, certificato SSL (https) e backup regolari.",
+    true
+   ],
+   [
+    "Email aziendale",
+    "Caselle sul tuo dominio (es. ciao@tuocatering.it).",
+    true
+   ],
+   [
+    "Aggiornamenti e assistenza",
+    "Teniamo il sito aggiornato e sicuro e facciamo le modifiche per te.",
+    false
+   ],
+   [
+    "Profilo dell'attività su Google",
+    "La tua scheda su Google Maps creata e collegata al sito.",
+    false
+   ],
+   [
+    "Privacy e cookie",
+    "Informativa privacy e consenso ai cookie per il tuo paese.",
+    false
+   ]
+  ],
+  "free": "Incluso",
+  "priceT": "Prezzo Ready Site",
+  "setup": "Attivazione",
+  "setupV": "€0",
+  "setupS": "Consegnato più rapidamente di un sito su misura",
+  "month": "Mensile",
+  "monthV": "€39",
+  "monthS": "Hosting, SSL ed email aziendale inclusi",
+  "year": "Pagamento annuale",
+  "yearV": "2 mesi gratis",
+  "yearS": "10 × il canone mensile, più un dominio gratuito",
+  "note": "Prezzi Ready Site in EUR per il pacchetto Sito Aziendale, novembre 2026. Prezzi in altre valute su pentaservices.co.uk. Durata minima 12 mesi dalla messa online."
+ },
+ "start": {
+  "k": "15 · Come iniziamo",
+  "h": "Cosa ci serve <em>e cosa facciamo</em>",
+  "needT": "Cosa ci serve da te",
+  "need": [
+   "Logo e colori, se li hai (altrimenti li progettiamo noi)",
+   "Nome dell'attività, indirizzo della cucina, telefono, email e zone di consegna",
+   "I tuoi menù con diete e allergeni, pacchetti e prezzi (o \"su richiesta\")",
+   "Le tue foto migliori di piatti ed eventi",
+   "Profili del team: ruolo, esperienza, foto",
+   "Menù dei pranzi per uffici e regole di consegna, se li offri"
+  ],
+  "doT": "Cosa facciamo noi",
+  "do": [
+   "Adattiamo il design al tuo marchio",
+   "Carichiamo piatti, allergeni e prezzi nel compositore di menù",
+   "Configuriamo preventivo, ordini, moduli ed email",
+   "SEO, dati strutturati e profilo dell'attività su Google",
+   "Test su telefoni, tablet e computer",
+   "Pubblicazione sul tuo dominio, poi ce ne prendiamo cura"
+  ],
+  "why": "Su misura per te",
+  "whyP": "Ogni sito è adattato alla tua attività: cucine, menù, allergeni, pacchetti, zone di consegna e team. I prezzi possono essere quelli reali, mostrati per fasce o nascosti. Per i pagamenti online colleghiamo Stripe o PayPal. Ti inviamo una proposta chiara e senza impegno."
+ },
+ "next": {
+  "k": "Prossimi passi",
+  "h": "Pronto per un sito che <em>riempie la tua agenda?</em>",
+  "steps": [
+   [
+    "Guarda la demo",
+    "Apri la demo su telefono e computer. Prova il compositore di menù, il preventivo immediato e l'ordine dei pranzi per uffici."
+   ],
+   [
+    "Parla con noi",
+    "Scrivici su WhatsApp o via email: ti mostriamo il sito e rispondiamo a ogni domanda, senza impegno."
+   ],
+   [
+    "Inviaci i tuoi dati",
+    "Logo, menù con allergeni, pacchetti, foto e profili del team."
+   ],
+   [
+    "Approva e vai online",
+    "Ricevi un link di anteprima privato, lo approvi e il sito va online sul tuo dominio."
+   ]
+  ],
+  "contactT": "Contatta Penta Services",
+  "wa": "WhatsApp / telefono",
+  "demo": "Demo live",
+  "about": "Penta Services: siti web, app, SEO e GEO, hosting. Oltre 15 anni in più di 50 settori. Uffici a Londra, in Italia e in Pakistan.",
+  "end": "Un solo sito. Piatti splendidi, prezzi chiari, allergeni sicuri e una prima prenotazione facile."
+ }
+}

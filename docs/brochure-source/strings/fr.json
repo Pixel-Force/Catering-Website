@@ -1,0 +1,515 @@
+{
+ "lang": "fr",
+ "dir": "ltr",
+ "foot": "Site pour traiteur · Guide des fonctionnalités",
+ "date": "Novembre 2026",
+ "cover": {
+  "kick": "Guide du site pour traiteurs et entreprises de traiteur",
+  "h1": "Un site de traiteur qui <em>transforme les gourmands en dégustations réservées</em>",
+  "p": "Prêt à l'emploi, rapide et conçu pour être trouvé sur Google et par les assistants IA. Composeur de menu avec allergènes, devis instantané, commande de plateaux-repas et outils de planification inclus. Nous l'adaptons à votre entreprise, l'hébergeons et le tenons à jour.",
+  "left": "Ready Site · Formule Site d'entreprise",
+  "demo": "Démo en ligne"
+ },
+ "toc": {
+  "k": "Sommaire",
+  "h": "Ce que contient <em>ce guide</em>",
+  "items": [
+   "En bref",
+   "La page d'accueil, section par section",
+   "Page d'accueil mariages",
+   "Services et pages de service",
+   "Composeur de menu et guide des allergènes",
+   "Devis instantané et rendez-vous conseil",
+   "Commande de plateaux-repas",
+   "Formules et outils de planification",
+   "Suivi de devis, équipe et galerie",
+   "FAQ, journal et contact",
+   "Fonctionnalités interactives",
+   "Pensé pour le mobile",
+   "Votre marque, Google et la recherche IA",
+   "Tout compris et tarif",
+   "Comment nous démarrons et prochaines étapes"
+  ],
+  "demoT": "Essayez la démo en ligne",
+  "demoP": "Marigold & Thyme est un traiteur fictif. Les noms, plats, prix, chiffres et avis de la démo sont des exemples que nous remplaçons par les vôtres."
+ },
+ "glance": {
+  "k": "1 · En bref",
+  "h": "Qui cherche un traiteur <em>veut un menu et un prix, vite</em>",
+  "p": "Un couple qui prépare son mariage, une assistante qui commande le déjeuner du bureau ou une famille qui organise une fête de l'Aïd : tous cherchent sur Google, interrogent ChatGPT et comparent les traiteurs. Ils veulent voir les plats, connaître le prix par invité et être sûrs que vous gérez leurs régimes et allergies.",
+  "checkT": "Ce que les visiteurs vérifient",
+  "check": [
+   "Les plats donnent-ils envie, et cuisinez-vous mon type de menu ?",
+   "Combien cela coûtera-t-il par invité, service et TVA compris ?",
+   "Gérez-vous le halal, le vegan et les allergies en toute sécurité ?",
+   "Êtes-vous libre à ma date, et est-il simple de réserver ?"
+  ],
+  "giveT": "Ce que ce site leur apporte",
+  "give": [
+   "Un composeur de menu : 36 plats, régimes, allergènes et prix en direct",
+   "Un devis instantané avec personnel, options et TVA, ligne par ligne",
+   "Un tableau complet des allergènes et des formules claires par invité",
+   "La commande en ligne des plateaux-repas, avec créneaux de livraison"
+  ],
+  "stats": [
+   [
+    "26",
+    "Pages prêtes, dont 6 pages de service et 3 guides"
+   ],
+   [
+    "2",
+    "Styles de page d'accueil : tous événements et mariages"
+   ],
+   [
+    "6",
+    "Outils : menu, allergènes, devis, suivi, calculateurs de quantités et de personnel"
+   ],
+   [
+    "5",
+    "Étapes dans le devis, du type d'événement au rendez-vous réservé"
+   ]
+  ],
+  "who": "Conçu pour",
+  "for": [
+   "Traiteurs pour événements et mariages",
+   "Traiteurs d'entreprise et plateaux-repas",
+   "Traiteurs halal et de mariages orientaux",
+   "Chefs à domicile",
+   "Barbecue, street-food et food trucks",
+   "Buffets, tables de grazing et plateaux"
+  ]
+ },
+ "home": {
+  "k": "2 · La page d'accueil",
+  "h": "La page d'accueil, <em>section par section</em>",
+  "p": "Une page qui répond aux trois grandes questions : est-ce appétissant, combien ça coûte, comment réserver.",
+  "s": [
+   [
+    "Photo d'ouverture et prix immédiat",
+    "Une photo en arche qui défile, deux boutons, badges avis et hygiène, et une estimation par événement, invités et style."
+   ],
+   [
+    "Six services",
+    "Cartes photo mariages, entreprises, chef à domicile, fêtes, barbecue et buffets, avec prix par invité."
+   ],
+   [
+    "Une cuisine, trois traditions",
+    "Une carte façon menu imprimé : plats britanniques, sud-asiatiques ou méditerranéens, avec badges de régime."
+   ],
+   [
+    "Chiffres et déroulé",
+    "Compteurs animés et quatre étapes, du premier message à la dernière assiette."
+   ],
+   [
+    "Aperçu du composeur de menu",
+    "Un avant-goût du composeur : plats, prix par invité et allergènes."
+   ],
+   [
+    "Formules avec curseur d'invités",
+    "Mariage, entreprise et fête ; le curseur affiche le total pour vos invités."
+   ],
+   [
+    "Galerie, avis, plateaux-repas, confiance et FAQ",
+    "Événements récents, avis, offre plateaux-repas, badges hygiène et halal, réponses et articles."
+   ]
+  ],
+  "why": "Pourquoi c'est important",
+  "whyP": "On choisit un traiteur avec les yeux et le portefeuille. De grandes photos ouvrent l'appétit, et un prix dès le premier écran transforme la curiosité en demande, sans appel pour demander « combien ? »."
+ },
+ "home2": {
+  "k": "3 · Mariages",
+  "h": "Une page d'accueil <em>pour les mariages</em>",
+  "p": "Le mariage est la plus grosse réservation d'un traiteur. Cette page parle aux couples et aux familles : idéale pour la publicité, les salons du mariage, Instagram et les lieux partenaires.",
+  "s": [
+   [
+    "Ouverture mariage et prix",
+    "Un titre mariage, l'estimation réglée sur « mariage » et les chiffres clés."
+   ],
+   [
+    "Votre date est-elle libre ?",
+    "Les couples choisissent une date, voient combien d'équipes sont libres et peuvent la bloquer."
+   ],
+   [
+    "Formules et déroulé du jour J",
+    "Trois menus de mariage avec le total pour vos invités, et l'heure de chaque service."
+   ],
+   [
+    "Mehndi, nikah et walima",
+    "Un menu pour chaque cérémonie d'un mariage sud-asiatique, avec avis de couples et FAQ."
+   ]
+  ],
+  "cap": "Vérification de date de mariage",
+  "capB": "Menus de mariage sud-asiatique"
+ },
+ "services": {
+  "k": "4 · Services",
+  "h": "Services et <em>pages de service</em>",
+  "p": "Une vue d'ensemble de tout ce que vous proposez, plus une page dédiée à chaque service, rédigée pour répondre aux questions que les gens recherchent.",
+  "a": [
+   [
+    "Cartes de service",
+    "Photo, icône, prix par invité et courte description."
+   ],
+   [
+    "Quel style de service ?",
+    "Un tableau comparant cocktail, buffet, plats à partager et service à l'assiette : pour qui, prix et personnel nécessaire."
+   ]
+  ],
+  "b": [
+   [
+    "Introduction qui répond d'emblée",
+    "Ce qu'est le service, pour qui, le prix de départ et quand réserver."
+   ],
+   [
+    "Exemple de menu",
+    "Six plats façon menu imprimé, avec badges de régime et lien vers les allergènes."
+   ],
+   [
+    "Prix immédiat et questions",
+    "L'estimation réglée sur ce type d'événement, plus une FAQ avec données structurées."
+   ],
+   [
+    "Services associés",
+    "Trois autres services, pour que les visiteurs continuent d'explorer."
+   ]
+  ],
+  "capA": "Vue d'ensemble des services",
+  "capB": "Page de service : traiteur mariage"
+ },
+ "menus": {
+  "k": "5 · Composeur de menu & allergènes",
+  "h": "Le client compose son menu, <em>allergènes affichés</em>",
+  "p": "La fonctionnalité absente de la plupart des sites de traiteur. Les visiteurs choisissent leurs plats, voient le prix par invité évoluer et vous envoient le menu. Chaque plat affiche ses régimes et les 14 allergènes réglementaires.",
+  "a": [
+   [
+    "Filtres",
+    "Plat, régime (végétarien, vegan, halal, sans gluten, sans lactose), sans l'un des 14 allergènes, et une recherche."
+   ],
+   [
+    "Votre menu",
+    "Plats classés par service, invités et style, prix par invité et total, le tout enregistré dans le navigateur."
+   ]
+  ],
+  "b": [
+   [
+    "Récapitulatif des allergènes",
+    "Le menu liste tous les allergènes des plats choisis. Téléchargez-le ou envoyez-le directement dans un devis."
+   ],
+   [
+    "Tableau des allergènes",
+    "36 plats × 14 allergènes dans un seul tableau. Masquez un allergène ou affichez seulement les plats vegan ou halal."
+   ]
+  ],
+  "capA": "Composeur de menu, filtre halal et 7 plats choisis",
+  "capB": "Votre menu : prix et allergènes",
+  "capC": "Tableau des allergènes, fruits à coque et gluten masqués"
+ },
+ "quote": {
+  "k": "6 · Devis instantané",
+  "h": "Un devis qui <em>aboutit à un rendez-vous réservé</em>",
+  "p": "À la place d'un formulaire de contact, les visiteurs répondent à cinq courtes étapes. Ils voient une estimation ligne par ligne avant d'envoyer quoi que ce soit, et vous recevez une demande qualifiée avec tous les détails.",
+  "a": [
+   [
+    "Événement, date et invités",
+    "Cinq types d'événement, date, curseur d'invités, code postal du lieu et présence d'une cuisine. Pré-rempli depuis les pages de service, les formules et le composeur."
+   ],
+   [
+    "Repas et régimes",
+    "Style de service, menu du composeur, nombre de végétariens, halal et allergies."
+   ]
+  ],
+  "b": [
+   [
+    "Estimation en direct",
+    "Repas, suppléments, personnel (serveurs et chefs calculés selon les invités), options, livraison et TVA."
+   ],
+   [
+    "Réserver le rendez-vous",
+    "Par téléphone, en visio ou en dégustation dans votre cuisine, avec date et créneau."
+   ]
+  ],
+  "capA": "Étape 3 : style de service et menu",
+  "capB": "Étape 4 : options et estimation",
+  "capC": "Demande envoyée, avec une référence",
+  "why": "Pourquoi c'est important",
+  "whyP": "Chaque étape pose une question simple : bien plus de visiteurs vont au bout qu'avec un long formulaire. Votre équipe démarre l'appel en connaissant déjà la date, les invités, le menu, les régimes et le budget."
+ },
+ "office": {
+  "k": "7 · Plateaux-repas",
+  "h": "Les déjeuners de bureau, <em>commandés en ligne</em>",
+  "p": "Les commandes régulières des entreprises sont le revenu stable d'un traiteur. Plateaux, bowls et plats chauds commandés en deux minutes, sans appeler.",
+  "a": [
+   [
+    "Carte avec quantités",
+    "Pour combien de personnes, régimes et prix, avec boutons + et −."
+   ],
+   [
+    "Règles de commande intégrées",
+    "Minimum de commande, livraison offerte dès un montant, livraison en semaine dès demain, créneaux."
+   ]
+  ],
+  "b": [
+   [
+    "Vérification du code postal",
+    "Seules vos zones de livraison sont acceptées, avec un message clair sinon."
+   ],
+   [
+    "Référence de commande",
+    "Une confirmation avec référence et un bouton « recommander ma dernière commande »."
+   ]
+  ],
+  "capA": "Carte des plateaux-repas",
+  "capB": "Panier : date, heure et code postal",
+  "capC": "Commande passée"
+ },
+ "plan": {
+  "k": "8 · Formules & outils de planification",
+  "h": "Des formules claires <em>et les outils pour planifier</em>",
+  "p": "Les clients veulent savoir ce qu'ils obtiennent pour leur argent, quelle quantité prévoir et combien de personnel il faut.",
+  "a": [
+   [
+    "Onglets de formules et curseur d'invités",
+    "Mariages, entreprises et fêtes, trois formules chacun, avec le total pour le nombre d'invités du visiteur."
+   ],
+   [
+    "Calculateur de quantités",
+    "Invités, durée, style et appétit donnent pièces cocktail, kilos de nourriture, riz, naans, desserts, boissons et glace."
+   ]
+  ],
+  "b": [
+   [
+    "Calculateur de personnel",
+    "Serveurs, chefs, barmen et responsable selon les invités et le style de service, avec le coût du personnel."
+   ],
+   [
+    "Déroulé du service",
+    "Quand servir chaque plat, à partir de l'arrivée des invités."
+   ]
+  ],
+  "capA": "Formules avec totaux pour 150 invités",
+  "capB": "Calculateur de quantités",
+  "capC": "Calculateur de personnel"
+ },
+ "track": {
+  "k": "9 · Suivi, équipe & galerie",
+  "h": "Vos clients suivent leur réservation <em>et rencontrent votre équipe</em>",
+  "p": "Après le devis, les clients veulent savoir ce qui se passe ensuite. Le suivi le leur montre, et les pages équipe et galerie présentent ceux qui cuisinent et servent.",
+  "a": [
+   [
+    "Suivi du devis",
+    "Avec la référence : proposition, dégustation, acomptes, nombre définitif et jour J, avec fichier calendrier."
+   ],
+   [
+    "Moins d'appels « juste pour vérifier »",
+    "Les clients voient chaque date et chaque montant sans téléphoner."
+   ]
+  ],
+  "b": [
+   [
+    "Profils de l'équipe",
+    "Photo, rôle et parcours dans une fenêtre pour chaque chef et responsable."
+   ],
+   [
+    "Galerie",
+    "Filtres mariages, entreprises, fêtes, plein air et cuisine, avec visionneuse plein écran."
+   ]
+  ],
+  "capA": "Suivi du devis",
+  "capB": "Profil d'un chef",
+  "capC": "Galerie avec filtres et visionneuse"
+ },
+ "more": {
+  "k": "10 · FAQ, journal, contact",
+  "h": "Réponses, articles <em>et tous les moyens de vous joindre</em>",
+  "faq": [
+   "FAQ avec recherche",
+   "Le visiteur tape un mot et les questions correspondantes s'ouvrent, surlignées. Filtres par thème et données structurées FAQ."
+  ],
+  "blog": [
+   "Journal",
+   "Guides sur les quantités par invité, le coût d'un traiteur de mariage et les allergènes, rédigés pour être cités par Google et les assistants IA."
+  ],
+  "contact": [
+   "Contact",
+   "Adresse de la cuisine, carte, horaires, WhatsApp, téléphone et court formulaire protégé contre le spam."
+  ],
+  "capFaq": "Recherche en direct dans la FAQ",
+  "capBlog": "Article : quelle quantité par invité",
+  "capContact": "Page contact"
+ },
+ "feats": {
+  "k": "11 · Fonctionnalités interactives",
+  "h": "Des fonctionnalités qui <em>retiennent les visiteurs</em>",
+  "items": [
+   [
+    "Prix immédiat dès l'ouverture",
+    "Une fourchette de prix par type d'événement, invités et style, avant même de défiler."
+   ],
+   [
+    "Recherche sur le site",
+    "Plats, services, plateaux-repas, équipe, questions et articles (aussi Ctrl/Cmd + K)."
+   ],
+   [
+    "Vérification de date de mariage",
+    "Indique combien d'équipes sont libres à la date du couple."
+   ],
+   [
+    "WhatsApp, appel et barre mobile",
+    "Un bouton WhatsApp, l'appel en un geste et une barre Appeler / WhatsApp / Devis sur mobile."
+   ],
+   [
+    "Rapide et léger",
+    "Code simple, images compressées et chargement rapide sur mobile."
+   ],
+   [
+    "Facile à mettre à jour",
+    "Tout le contenu au même endroit : modifiez un plat, un allergène ou le prix d'une formule une fois, toutes les pages suivent."
+   ]
+  ],
+  "capCalc": "Aperçu du composeur de menu sur l'accueil",
+  "capSearch": "Recherche sur le site"
+ },
+ "mobile": {
+  "k": "12 · Mobile",
+  "h": "Pensé <em>pour le mobile</em>",
+  "p": "La plupart des clients préparent leur événement sur leur téléphone, souvent le soir. Le menu se replie en tiroir latéral, le récapitulatif du menu glisse depuis le bas, et une barre garde Appeler, WhatsApp et Devis à portée de doigt.",
+  "caps": [
+   "Accueil",
+   "Menu",
+   "Composeur de menu",
+   "Devis instantané"
+  ]
+ },
+ "search": {
+  "k": "13 · Marque et recherche",
+  "h": "Votre marque, <em>Google et la recherche IA</em>",
+  "p": "La démo associe un vert thym profond au jaune souci, Fraunces pour les titres et DM Sans pour le texte : chaleureux, appétissant et rassurant. Nous les remplaçons par votre logo, vos couleurs et vos photos de plats.",
+  "seoT": "Google (SEO)",
+  "seo": [
+   "Un titre et une description uniques sur chaque page",
+   "Données structurées FoodEstablishment, Service avec prix par invité, Menu avec régimes, FAQPage, Article et Breadcrumb",
+   "Une page dédiée à chaque service, plus des pages menus, allergènes et formules",
+   "Plan du site, adresses propres et chargement rapide"
+  ],
+  "geoT": "Assistants IA (GEO)",
+  "geo": [
+   "Pages de service et FAQ qui répondent d'emblée",
+   "Des guides avec quantités et prix réels que les outils IA peuvent citer",
+   "Nom, adresse et téléphone identiques partout",
+   "Un résumé llms.txt de vos services, menus et outils"
+  ],
+  "qT": "Les recherches autour desquelles le site est construit",
+  "q": [
+   "traiteur [ville]",
+   "traiteur mariage [région]",
+   "traiteur mariage oriental",
+   "traiteur halal [ville]",
+   "traiteur entreprise [ville]",
+   "livraison plateaux-repas bureau",
+   "prix traiteur par personne",
+   "quantité nourriture par personne"
+  ],
+  "why": "Pourquoi c'est important",
+  "whyP": "De plus en plus de gens demandent à ChatGPT, Gemini ou Google IA quel traiteur choisir et combien coûte un traiteur. Les assistants IA citent les sites aux réponses claires et aux informations cohérentes. Nous ne garantissons ni classement ni citation, mais nous rendons compte des progrès chaque mois."
+ },
+ "inc": {
+  "k": "14 · Tout compris",
+  "h": "Domaine, hébergement et e-mail : <em>nous nous occupons de tout</em>",
+  "p": "Le site arrive complet et prêt à l'emploi. Vous n'avez jamais à gérer la technique.",
+  "items": [
+   [
+    "Nom de domaine",
+    "Un domaine .com, .net ou .org offert avec la facturation annuelle, ou nous connectons le vôtre.",
+    true
+   ],
+   [
+    "Hébergement rapide et sécurisé",
+    "Serveurs fiables, certificat SSL (https) et sauvegardes régulières.",
+    true
+   ],
+   [
+    "Messagerie professionnelle",
+    "Des adresses sur votre propre domaine (ex. bonjour@votretraiteur.fr).",
+    true
+   ],
+   [
+    "Mises à jour et assistance",
+    "Nous gardons le site à jour et sécurisé et faisons vos modifications.",
+    false
+   ],
+   [
+    "Fiche Google Business Profile",
+    "Votre fiche Google Maps configurée et reliée au site.",
+    false
+   ],
+   [
+    "Confidentialité et cookies",
+    "Politique de confidentialité et consentement aux cookies pour votre pays.",
+    false
+   ]
+  ],
+  "free": "Inclus",
+  "priceT": "Prix du Ready Site",
+  "setup": "Mise en service",
+  "setupV": "0 €",
+  "setupS": "Plus rapide qu'un sur-mesure",
+  "month": "Mensuel",
+  "monthV": "39 €",
+  "monthS": "Hébergement, SSL et e-mail inclus",
+  "year": "Paiement annuel",
+  "yearV": "2 mois offerts",
+  "yearS": "10 × le mensuel + domaine offert",
+  "note": "Prix Ready Site, formule Site d'entreprise, novembre 2026. Autres devises sur pentaservices.co.uk. Engagement minimum de 12 mois dès la mise en ligne."
+ },
+ "start": {
+  "k": "15 · Comment nous démarrons",
+  "h": "Ce dont nous avons besoin <em>et ce que nous faisons</em>",
+  "needT": "Ce dont nous avons besoin",
+  "need": [
+   "Logo et couleurs, si vous en avez (sinon nous les créons)",
+   "Nom, adresse de la cuisine, téléphone, e-mail et zones livrées",
+   "Vos menus avec régimes et allergènes, formules et tarifs (ou « sur demande »)",
+   "Vos plus belles photos de plats et d'événements",
+   "Profils de l'équipe : rôle, expérience, photos",
+   "Carte des plateaux-repas et règles de livraison, le cas échéant"
+  ],
+  "doT": "Ce que nous faisons",
+  "do": [
+   "Adapter le design à votre marque",
+   "Charger vos plats, allergènes et prix dans le composeur de menu",
+   "Configurer devis, commandes, formulaires et e-mail",
+   "SEO, données structurées et Google Business Profile",
+   "Tester sur mobiles, tablettes et ordinateurs",
+   "Mettre en ligne sur votre domaine, puis en prendre soin"
+  ],
+  "why": "Sur mesure pour vous",
+  "whyP": "Chaque site est adapté à votre entreprise : cuisines, menus, allergènes, formules, zones de livraison et équipe. Les prix peuvent être réels, en fourchette ou masqués. Paiement en ligne via Stripe ou PayPal. Proposition claire, sans engagement."
+ },
+ "next": {
+  "k": "Prochaines étapes",
+  "h": "Prêt pour un site qui <em>remplit votre agenda ?</em>",
+  "steps": [
+   [
+    "Voir la démo",
+    "Ouvrez la démo sur votre téléphone et votre ordinateur. Essayez le composeur de menu, le devis instantané et la commande de plateaux-repas."
+   ],
+   [
+    "Parlons-en",
+    "Écrivez-nous sur WhatsApp ou par e-mail : nous vous présentons le site et répondons à toutes vos questions, sans engagement."
+   ],
+   [
+    "Envoyez-nous vos éléments",
+    "Logo, menus avec allergènes, formules, photos et profils de l'équipe."
+   ],
+   [
+    "Validez et mettez en ligne",
+    "Vous recevez un lien d'aperçu privé, vous validez, et le site est mis en ligne sur votre domaine."
+   ]
+  ],
+  "contactT": "Contacter Penta Services",
+  "wa": "WhatsApp / téléphone",
+  "demo": "Démo en ligne",
+  "about": "Penta Services : sites web, applications, SEO et GEO, hébergement. Plus de 15 ans d'expérience dans plus de 50 secteurs. Bureaux à Londres, en Italie et au Pakistan.",
+  "end": "Un seul site. De beaux plats, des prix clairs, des allergènes bien affichés et une première réservation facile."
+ }
+}
