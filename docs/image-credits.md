@@ -1,0 +1,62 @@
+# Image credits
+
+All photos: [Unsplash License](https://unsplash.com/license) (free for commercial use, attribution not required). Downloaded from the Unsplash image CDN as WebP; the source URL identifies each photo.
+
+| File | Source |
+|---|---|
+| assets/img/hero-1.webp | https://images.unsplash.com/photo-1511795409834-ef04bbd61622 |
+| assets/img/hero-2.webp | https://images.unsplash.com/photo-1555244162-803834f70033 |
+| assets/img/hero-3.webp | https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf |
+| assets/img/long-table.webp | https://images.unsplash.com/photo-1536392706976-e486e2ba97af |
+| assets/img/dinner-party.webp | https://images.unsplash.com/photo-1414235077428-338989a2e8c0 |
+| assets/img/guests.webp | https://images.unsplash.com/photo-1528605248644-14dd04022da1 |
+| assets/img/wedding-table.webp | https://images.unsplash.com/photo-1522413452208-996ff3f3e740 |
+| assets/img/wedding-cake.webp | https://images.unsplash.com/photo-1535254973040-607b474cb50d |
+| assets/img/wedding-arch.webp | https://images.unsplash.com/photo-1523438885200-e635ba2c371e |
+| assets/img/bouquet.webp | https://images.unsplash.com/photo-1519741497674-611481863552 |
+| assets/img/banquet.webp | https://images.unsplash.com/photo-1511578314322-379afb476865 |
+| assets/img/conference.webp | https://images.unsplash.com/photo-1505373877841-8d25f7d46678 |
+| assets/img/balloons.webp | https://images.unsplash.com/photo-1530103862676-de8c9debad1d |
+| assets/img/party-hall.webp | https://images.unsplash.com/photo-1464366400600-7168b8af9bc3 |
+| assets/img/outdoor-feast.webp | https://images.unsplash.com/photo-1576867757603-05b134ebc379 |
+| assets/img/garden-lunch.webp | https://images.unsplash.com/photo-1530062845289-9109b2c9c868 |
+| assets/img/skewers.webp | https://images.unsplash.com/photo-1599487488170-d11ec9c172f0 |
+| assets/img/ribs.webp | https://images.unsplash.com/photo-1544025162-d76694265947 |
+| assets/img/grill-platter.webp | https://images.unsplash.com/photo-1555939594-58d7cb561ad1 |
+| assets/img/chef-flame.webp | https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf |
+| assets/img/chef-copper.webp | https://images.unsplash.com/photo-1577219491135-ce391730fb2c |
+| assets/img/prep.webp | https://images.unsplash.com/photo-1551218808-94e220e084d2 |
+| assets/img/veg-prep.webp | https://images.unsplash.com/photo-1507048331197-7d4ac70811cf |
+| assets/img/grazing.webp | https://images.unsplash.com/photo-1541529086526-db283c563270 |
+| assets/img/spread.webp | https://images.unsplash.com/photo-1504674900247-0877df9cc836 |
+| assets/img/brunch.webp | https://images.unsplash.com/photo-1504754524776-8f4f37790ca0 |
+| assets/img/salad.webp | https://images.unsplash.com/photo-1512621776951-a57141f2eefd |
+| assets/img/bowl.webp | https://images.unsplash.com/photo-1546069901-ba9599a7e63c |
+| assets/img/salmon.webp | https://images.unsplash.com/photo-1467003909585-2f8a72700288 |
+| assets/img/lamb.webp | https://images.unsplash.com/photo-1432139555190-58524dae6a55 |
+| assets/img/steak.webp | https://images.unsplash.com/photo-1432139509613-5c4255815697 |
+| assets/img/biryani.webp | https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8 |
+| assets/img/biryani-2.webp | https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a |
+| assets/img/curry.webp | https://images.unsplash.com/photo-1585937421612-70a008356fbe |
+| assets/img/butter-chicken.webp | https://images.unsplash.com/photo-1565557623262-b51c2513a641 |
+| assets/img/samosa.webp | https://images.unsplash.com/photo-1601050690597-df0568f70950 |
+| assets/img/tikka.webp | https://images.unsplash.com/photo-1626074353765-517a681e40be |
+| assets/img/thali.webp | https://images.unsplash.com/photo-1626777552726-4a6b54c97e46 |
+| assets/img/paneer.webp | https://images.unsplash.com/photo-1604908176997-125f25cc6f3d |
+| assets/img/paella.webp | https://images.unsplash.com/photo-1512058564366-18510be2db19 |
+| assets/img/pasta-salad.webp | https://images.unsplash.com/photo-1473093295043-cdd812d0e601 |
+| assets/img/dumplings.webp | https://images.unsplash.com/photo-1534422298391-e4f8c172dddb |
+| assets/img/desserts.webp | https://images.unsplash.com/photo-1488477181946-6428a0291777 |
+| assets/img/choc-cake.webp | https://images.unsplash.com/photo-1578985545062-69928b1d9587 |
+| assets/img/tart.webp | https://images.unsplash.com/photo-1519915028121-7d3463d20b13 |
+| assets/img/cookies.webp | https://images.unsplash.com/photo-1558961363-fa8fdf82db35 |
+| assets/img/cocktail.webp | https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b |
+| assets/img/mojito.webp | https://images.unsplash.com/photo-1546171753-97d7676e4602 |
+| assets/img/wine.webp | https://images.unsplash.com/photo-1510812431401-41d2bd2722f3 |
+| assets/img/coffee.webp | https://images.unsplash.com/photo-1495474472287-4d71bcdd2085 |
+| assets/img/produce.webp | https://images.unsplash.com/photo-1498837167922-ddd27525d352 |
+| assets/img/team-1.webp | https://images.unsplash.com/photo-1581299894007-aaa50297cf16 |
+| assets/img/team-2.webp | https://images.unsplash.com/photo-1573496359142-b8d87734a5a2 |
+| assets/img/team-3.webp | https://images.unsplash.com/photo-1595273670150-bd0c3c392e46 |
+| assets/img/team-4.webp | https://images.unsplash.com/photo-1534528741775-53994a69daeb |
+| assets/img/team-5.webp | https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d |
