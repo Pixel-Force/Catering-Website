@@ -1,0 +1,40 @@
+# Marigold & Thyme
+
+> Wedding, corporate and event caterers in Birmingham: British, South Asian and Mediterranean menus, halal options, office lunch delivery and private chefs. Founded 2012. Unit 4, Kiln Yard, Birmingham B18 6NE. 0121 496 0412. (Fictional demo business by Penta Services.)
+
+## Services
+- [Wedding catering](https://pixel-force.github.io/Catering-Website/service-wedding-catering.html): Canapés, wedding breakfasts, sharing feasts and evening food for 40 to 600 guests, including mehndi and walima menus. From £38 per guest.
+- [Corporate & conference catering](https://pixel-force.github.io/Catering-Website/service-corporate-catering.html): Working lunches, conference days, client dinners, awards nights and staff parties, invoiced on account. From £18 per guest.
+- [Private chef & dinner parties](https://pixel-force.github.io/Catering-Website/service-private-dining.html): A private chef in your home or a hired space: tasting menus, family-style feasts and birthday dinners for 6 to 40. From £65 per guest.
+- [Parties & celebrations](https://pixel-force.github.io/Catering-Website/service-celebration-catering.html): Birthdays, anniversaries, Eid and Diwali gatherings, christenings and wakes, with buffets, sharing platters or live stations. From £24 per guest.
+- [BBQ, live grill & outdoor events](https://pixel-force.github.io/Catering-Website/service-bbq-outdoor-catering.html): Charcoal grills, tandoor and pizza ovens for garden parties, summer staff days, festivals and sports events. From £26 per guest.
+- [Buffets & grazing tables](https://pixel-force.github.io/Catering-Website/service-buffet-grazing-tables.html): Hot and cold buffets, grazing tables and canapé platters, delivered ready to serve or styled on site. From £16 per guest.
+- [Office lunch delivery](https://pixel-force.github.io/Catering-Website/office-lunches.html): order platters, bowls and hot lunches online.
+
+## Tools
+- [Menu builder](https://pixel-force.github.io/Catering-Website/menus.html): 36 dishes with diets, allergens and per-guest prices.
+- [Allergen guide](https://pixel-force.github.io/Catering-Website/allergens.html): the 14 UK allergens for every dish.
+- [Instant quote](https://pixel-force.github.io/Catering-Website/quote.html): 5-step estimate with staff, extras and VAT.
+- [Food & staff calculator](https://pixel-force.github.io/Catering-Website/planner.html)
+- [Packages & prices](https://pixel-force.github.io/Catering-Website/packages.html)
+
+## Guides
+- [How much food do you need per guest? A UK caterer's guide](https://pixel-force.github.io/Catering-Website/journal-how-much-food-per-guest.html): Canapés, buffet portions, rice and bread per guest: the quantities we use for 3,400 events, with a calculator.
+- [Wedding catering costs in the UK in 2026](https://pixel-force.github.io/Catering-Website/journal-wedding-catering-cost-uk.html): What a wedding caterer charges per head, what's included and where couples can save without guests noticing.
+- [Allergens and event catering: what your caterer must tell you](https://pixel-force.github.io/Catering-Website/journal-allergens-and-catering.html): The 14 allergens, how labelling works at buffets and weddings, and the questions to ask before you book.
+
+## FAQ
+- How much does catering cost per person in the UK? As a guide, a drop-off buffet starts at about £16 per guest, a staffed hot buffet at £32, a sharing banquet at £44 and a plated three-course meal at £62, before VAT. Staff, drinks, hire and travel are added. Use the quick quote on our homepage for a typical figure for your event.
+- Is there a minimum number of guests? Staffed events start at 20 guests and office lunch orders at £120. Private chef dinners start at 6 guests.
+- Do your prices include VAT and staff? Package prices are per guest before VAT. Packages that say 'staffed' include the team; otherwise staff are £22 an hour each, with a 6-hour minimum. Your proposal lists every line.
+- What deposit do you need? 25% to confirm your date, 50% eight weeks before the event and the balance 14 days before. Final guest numbers are due 14 days before.
+- Can you cater for halal, vegan and other diets? Yes. We cook halal meat from HMC-certified suppliers, and vegetarian and vegan dishes are prepared separately. Every dish on our menu is labelled with its diets and the 14 allergens.
+- How do you handle allergies? Tell us about allergies when you book. We label every dish with the 14 UK allergens, prepare allergy meals separately, label them with the guest's name and serve them first. Our kitchen handles nuts and gluten, so we cannot promise a dish is free from traces.
+- Can we have a tasting? Yes. Weddings from 80 guests include a tasting for two at our Birmingham kitchen. Other tastings are £45 per person, deducted from your final invoice if you book.
+- Can you mix cuisines, for example British and South Asian? Most of our weddings do. A common choice is canapés and a British starter, then a South Asian main course, with a dessert table that suits both families.
+- How many staff will we need? As a rule of thumb, one server per 12 guests for plated food, one per 16 for sharing platters and one per 25 for a buffet, plus one chef per 60 guests. Our planner works this out for you.
+- Do you need a kitchen at the venue? No. We bring a mobile kitchen, ovens and hot cupboards where needed. We visit or call the venue before the event to plan power, water and access.
+- Do you provide crockery, glassware and linen? Yes, through our hire partners. It's priced per guest in your proposal, and we collect it dirty, so there is no washing up.
+- What happens to leftover food? Where food safety allows, we box leftovers for you or donate them through a local food charity. Food waste goes to anaerobic digestion, never to landfill.
+- How far ahead should we book? 9–15 months for a summer Saturday wedding, 4–8 weeks for corporate and party events, and 48 hours for office lunches. Ask anyway if it's sooner: we often have weekday availability.
+- Which areas do you cover? Birmingham, the West Midlands, Warwickshire, Worcestershire and the Cotswolds as standard, and London and the rest of England for larger events. Office lunch delivery covers B, CV, WS, WV and DY postcodes.
