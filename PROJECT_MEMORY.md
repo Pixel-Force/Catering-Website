@@ -5,7 +5,8 @@
 - **Local Location**: `D:\My-Work\Ai-Websites\Catering-Website`
 - **Source Repository**: `https://github.com/Penta-Websites/Catering`
 - **Destination Repository**: `https://github.com/Pixel-Force/Catering-Website`
-- **Live Preview**: `https://catering.pentaservices.co.uk/`
+- **Live Preview (Official)**: `https://pixel-force.github.io/Catering-Website/` (HTTP 200 OK - Active & Verified)
+- **External Preview**: `https://catering.pentaservices.co.uk/`
 
 ## Architecture & Features
 - **Stack**: Static HTML5, CSS3, Vanilla JS rendered via zero-dependency generator `node build.mjs` into `dist/`.
@@ -21,3 +22,6 @@
 
 ## Log of Actions
 - **2026-11-21**: Cloned latest release from `https://github.com/Penta-Websites/Catering`, created new remote repository `https://github.com/Pixel-Force/Catering-Website`, and pushed full codebase with entire history.
+- **2026-11-21 (GitHub Pages Deployment & 404 Resolution)**:
+  - *Cause*: `https://pixel-force.github.io/catering-website` returned 404 because: (1) GitHub Pages was unconfigured without a `gh-pages` branch, (2) the repository generates compiled files into `dist/` rather than repository root, and (3) GitHub Pages URLs are case-sensitive matching the repository name (`Catering-Website`, not lowercase `catering-website`).
+  - *Resolution*: Updated `build.mjs` to set default base URL to `https://pixel-force.github.io/Catering-Website/` and automatically generate `.nojekyll`. Built full static distribution and deployed to newly created `gh-pages` branch on `Pixel-Force/Catering-Website`. Configured GitHub Pages to deploy from `gh-pages` (`/`). Set repository homepage metadata. Verified live HTTP 200 OK status on `https://pixel-force.github.io/Catering-Website/`.
