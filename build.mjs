@@ -5,7 +5,7 @@ import { BRAND as B, STATS, SERVICES, ALLERGENS, DIETS, COURSES, DISHES, PRICING
 import { POST_BODY } from "./src/posts.mjs";
 import { ico, WA, LOGO } from "./src/icons.mjs";
 
-const BASE = process.env.BASE_URL || "https://catering.pentaservices.co.uk/";
+const BASE = process.env.BASE_URL || "https://pixel-force.github.io/Catering-Website/";
 const OUT = new URL("./dist/", import.meta.url);
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const img = (n, alt = "", attrs = "") => `<img src="assets/img/${n}.webp" alt="${esc(alt)}" loading="lazy" decoding="async" ${attrs}>`;
@@ -591,4 +591,5 @@ await writeFile(new URL("sitemap.xml", OUT), `<?xml version="1.0" encoding="UTF-
 await writeFile(new URL("robots.txt", OUT), `User-agent: *\nAllow: /\n\n${["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-User", "PerplexityBot", "Google-Extended", "Applebot-Extended", "Bingbot"].map((b) => `User-agent: ${b}\nAllow: /`).join("\n\n")}\n\nSitemap: ${BASE}sitemap.xml\n`);
 await writeFile(new URL("llms.txt", OUT), `# ${B.name}\n\n> ${orgLd.description} Founded ${B.since}. ${B.address}. ${B.phone}. (Fictional demo business by Penta Services.)\n\n## Services\n${SERVICES.map((s) => `- [${s.title}](${BASE}${svcHref(s)}): ${s.short} From £${s.from} per guest.`).join("\n")}\n- [Office lunch delivery](${BASE}office-lunches.html): order platters, bowls and hot lunches online.\n\n## Tools\n- [Menu builder](${BASE}menus.html): ${DISHES.length} dishes with diets, allergens and per-guest prices.\n- [Allergen guide](${BASE}allergens.html): the 14 UK allergens for every dish.\n- [Instant quote](${BASE}quote.html): 5-step estimate with staff, extras and VAT.\n- [Food & staff calculator](${BASE}planner.html)\n- [Packages & prices](${BASE}packages.html)\n\n## Guides\n${POSTS.map((p) => `- [${p.title}](${BASE}${postHref(p)}): ${p.ex}`).join("\n")}\n\n## FAQ\n${FAQ.map(([, q, a]) => `- ${q} ${a}`).join("\n")}\n`);
 await writeFile(new URL("assets/img/favicon.svg", OUT), LOGO.replace('class="mark" ', 'xmlns="http://www.w3.org/2000/svg" '));
+await writeFile(new URL(".nojekyll", OUT), "");
 console.log(`built ${pages.length} pages → dist/ (BASE ${BASE})`);
